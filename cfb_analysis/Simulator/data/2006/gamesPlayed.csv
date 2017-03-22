@@ -1,0 +1,793 @@
+Visitor,Visitor Score,Home,Home Score
+ Alcorn St.,6, Louisiana-Monroe,24
+ Boston College,31, Central Michigan,24
+ Sacramento State,0, Boise State,45
+ Eastern Michigan,20, Ball State,38
+ Eastern Washington,17, Oregon State,56
+ Florida International,6, Middle Tennessee,7
+ Minnesota,44, Kent State,0
+ Northern Arizona,14, Arizona State,35
+ Northwestern,21, Miami (Ohio),3
+ Rhode Island,7, Connecticut,52
+ South Carolina,15, Mississippi State,0
+ Southeastern Louisiana,15, New Mexico State,30
+ Stephen F. Austin,7, Tulsa,45
+ Temple,3, Buffalo,9
+ UTEP,34, San Diego State,27
+ Toledo,43, Iowa State,45
+ Nevada,19, Fresno State,28
+ Akron,16, Penn State,34
+ Alabama St.,0, Troy,38
+ UAB,17, Oklahoma,24
+ Appalachian State,10, North Carolina State,23
+ BYU,13, Arizona,16
+ California,18, Tennessee,35
+ Citadel,3, Texas A&M,35
+ East Carolina,23, Navy,28
+ Eastern Illinois,17, Illinois,42
+ Eastern Kentucky,0, Cincinnati,31
+ Florida Atlantic,6, Clemson,54
+ Hawai'i,17, Alabama,25
+ Houston,31, Rice,30
+ Idaho State,10, UNLV,54
+ Idaho,17, Michigan State,27
+ Illinois State,23, Kansas State,24
+ Indiana State,35, Purdue,60
+ Louisiana Tech,10, Nebraska,49
+ Marshall,10, West Virginia,42
+ McNeese State,10, South Florida,41
+ Montana State,19, Colorado,10
+ Montana,7, Iowa,41
+ Murray State,7, Missouri,47
+ North Texas,7, Texas,56
+ Northeastern,0, Virginia Tech,38
+ Northern Illinois,12, Ohio State,35
+ Northwestern State,18, Kansas,49
+ Notre Dame,14, Georgia Tech,10
+ Portland State,17, New Mexico,6
+ Richmond,13, Duke,0
+ Rutgers,21, North Carolina,16
+ San Jose State,29, Washington,35
+ USC,50, Arkansas,14
+ SMU,3, Texas Tech,35
+ Southern Mississippi,7, Florida,34
+ Missouri State,10, Oklahoma State,52
+ Louisiana-Lafayette,3, LSU,45
+ Stanford,10, Oregon,48
+ Syracuse,10, Wake Forest,20
+ Tennessee-Martin,3, Ohio,29
+ Army,6, Arkansas State,14
+ Utah State,7, Wyoming,38
+ Utah,10, UCLA,31
+ Vanderbilt,7, Michigan,27
+ Villanova,16, UCF,35
+ Virginia,13, Pittsburgh,38
+ Washington State,14, Auburn,40
+ Weber State,6, Colorado State,30
+ Western Kentucky,12, Georgia,48
+ Western Michigan,20, Indiana,39
+ William & Mary,14, Maryland,27
+ Wisconsin,35, Bowling Green,14
+ Kentucky,28, Louisville,59
+ Memphis,25, Mississippi,28
+ TCU,17, Baylor,7
+ Florida State,13, Miami (Florida),10
+ Oregon State,14, Boise State,42
+ Pittsburgh,33, Cincinnati,15
+ Akron,20, North Carolina State,17
+ Arizona,3, LSU,45
+ Auburn,34, Mississippi State,0
+ Buffalo,40, Bowling Green,48
+ UC Davis,13, TCU,46
+ UCF,0, Florida,42
+ Central Michigan,17, Michigan,41
+ Clemson,33, Boston College,34
+ Colorado,10, Colorado State,14
+ Duke,13, Wake Forest,14
+ East Carolina,12, UAB,17
+ Eastern Michigan,20, Michigan State,52
+ Eastern Washington,3, West Virginia,52
+ Florida A&M,10, Miami (Florida),51
+ Florida Atlantic,0, Kansas State,45
+ Florida International,20, South Florida,21
+ Georgia,18, South Carolina,0
+ Hofstra,31, Marshall,54
+ Idaho,10, Washington State,56
+ Illinois,0, Rutgers,33
+ Indiana,24, Ball State,23
+ Iowa,20, Syracuse,13
+ Kent State,14, Army,17
+ Louisville,62, Temple,0
+ Massachusetts,20, Navy,21
+ Miami (Ohio),31, Purdue,38
+ Middle Tennessee,10, Maryland,24
+ Minnesota,17, California,42
+ Mississippi,7, Missouri,34
+ UNLV,10, Iowa State,16
+ Nevada,21, Arizona State,52
+ New Hampshire,34, Northwestern,17
+ New Mexico,34, New Mexico State,28
+ Nicholls State,7, Nebraska,56
+ Louisiana-Monroe,19, Kansas,21
+ Northern Arizona,7, Utah,45
+ Northwestern State,10, Baylor,47
+ Ohio State,24, Texas,7
+ Ohio,35, Northern Illinois,23
+ Oklahoma State,35, Arkansas State,7
+ Oregon,31, Fresno State,24
+ Penn State,17, Notre Dame,41
+ Rice,16, UCLA,26
+ Samford,6, Georgia Tech,38
+ Southeastern Louisiana,0, Southern Mississippi,45
+ SMU,6, North Texas,24
+ Texas State,7, Kentucky,41
+ Louisiana-Lafayette,7, Texas A&M,51
+ Stanford,34, San Jose State,35
+ Chattanooga,14, Memphis,33
+ Texas Tech,38, UTEP,35
+ Toledo,10, Western Michigan,31
+ Troy,17, Florida State,24
+ Tulane,7, Houston,45
+ Tulsa,24, BYU,49
+ Air Force,30, Tennessee,31
+ Utah State,0, Arkansas,20
+ Vanderbilt,10, Alabama,13
+ Virginia Tech,35, North Carolina,10
+ Washington,20, Oklahoma,37
+ Western Illinois,10, Wisconsin,34
+ Wyoming,12, Virginia,13
+ Maryland,24, West Virginia,45
+ Tennessee Tech,0, Middle Tennessee,44
+ Kansas,31, Toledo,37
+ Akron,21, Central Michigan,24
+ UAB,0, Georgia,34
+ Arizona State,21, Colorado,3
+ Arkansas,21, Vanderbilt,19
+ Ball State,28, Purdue,38
+ Baylor,15, Washington State,17
+ Boise State,17, Wyoming,10
+ Bowling Green,33, Florida International,28
+ BYU,23, Boston College,30
+ Buffalo,13, Northern Illinois,31
+ Fresno State,20, Washington,21
+ Cincinnati,7, Ohio State,37
+ Clemson,27, Florida State,20
+ Colorado State,10, Nevada,28
+ Duke,0, Virginia Tech,36
+ Eastern Michigan,6, Northwestern,14
+ Florida Atlantic,8, Oklahoma State,48
+ Florida,21, Tennessee,20
+ Furman,42, North Carolina,45
+ Grambling,22, Houston,42
+ Idaho State,24, Idaho,27
+ Iowa State,17, Iowa,27
+ Kent State,16, Miami (Ohio),14
+ LSU,3, Auburn,7
+ Marshall,7, Kansas State,23
+ Memphis,20, East Carolina,35
+ Miami (Florida),7, Louisville,31
+ Michigan State,38, Pittsburgh,23
+ Michigan,47, Notre Dame,21
+ Mississippi,14, Kentucky,31
+ Missouri,27, New Mexico,17
+ Nebraska,10, USC,28
+ UNLV,13, Hawai'i,42
+ Nicholls State,21, Louisiana Tech,31
+ North Carolina State,17, Southern Mississippi,37
+ North Texas,3, Tulsa,28
+ Louisiana-Monroe,7, Alabama,41
+ Ohio,7, Rutgers,24
+ Oklahoma,33, Oregon,34
+ Portland State,16, California,42
+ Sam Houston State,14, SMU,45
+ San Diego State,0, Wisconsin,14
+ South Florida,24, UCF,17
+ Southern Illinois,35, Indiana,28
+ Stephen F. Austin,10, Arizona,28
+ Syracuse,31, Illinois,21
+ Temple,0, Minnesota,62
+ Texas A&M,28, Army,24
+ Texas Southern,14, New Mexico State,48
+ Texas Tech,3, TCU,12
+ Texas,52, Rice,7
+ Troy,20, Georgia Tech,35
+ Tulane,32, Mississippi State,29
+ Navy,37, Stanford,9
+ Utah,48, Utah State,0
+ Wake Forest,24, Connecticut,13
+ Western Michigan,17, Virginia,10
+ Youngstown State,3, Penn State,37
+ Wofford,20, South Carolina,27
+ Virginia,7, Georgia Tech,24
+ Northwestern,21, Nevada,31
+ Alabama,23, Arkansas,24
+ Arizona State,21, California,49
+ Arkansas State,9, SMU,55
+ Boston College,15, North Carolina State,17
+ Buffalo,7, Auburn,38
+ Cal Poly,7, San Jose State,17
+ UCLA,19, Washington,29
+ Central Michigan,24, Eastern Michigan,17
+ Cincinnati,13, Virginia Tech,29
+ Citadel,6, Pittsburgh,51
+ Colorado,13, Georgia,14
+ Connecticut,14, Indiana,7
+ Florida Atlantic,6, South Carolina,45
+ Florida International,10, Maryland,14
+ Hawai'i,34, Boise State,41
+ Howard,7, Rutgers,56
+ Idaho,0, Oregon State,38
+ Indiana State,14, Northern Illinois,48
+ Iowa State,14, Texas,37
+ Iowa,24, Illinois,7
+ Kent State,38, Bowling Green,3
+ Kentucky,7, Florida,26
+ Louisiana Tech,14, Texas A&M,45
+ Louisville,24, Kansas State,6
+ Marshall,7, Tennessee,33
+ McNeese State,7, Toledo,41
+ Miami (Ohio),14, Syracuse,34
+ Middle Tennessee,0, Oklahoma,59
+ Minnesota,21, Purdue,27
+ Mississippi State,16, UAB,10
+ North Carolina,7, Clemson,52
+ North Carolina A&T,7, Louisiana-Lafayette,48
+ North Dakota State,29, Ball State,24
+ North Texas,13, Akron,33
+ Notre Dame,40, Michigan State,37
+ Ohio,6, Missouri,31
+ Oklahoma State,25, Houston,34
+ Penn State,6, Ohio State,28
+ Rice,7, Florida State,55
+ South Florida,7, Kansas,13
+ Southeastern Louisiana,0, Texas Tech,62
+ USC,20, Arizona,3
+ Temple,7, Western Michigan,41
+ Tennessee State,9, Vanderbilt,38
+ UTEP,13, New Mexico,26
+ Troy,0, Nebraska,56
+ Tulane,7, LSU,49
+ Tulsa,24, Navy,23
+ Air Force,31, Wyoming,24
+ Army,27, Baylor,20
+ Utah State,0, BYU,38
+ Utah,38, San Diego State,7
+ Wake Forest,27, Mississippi,3
+ Washington State,36, Stanford,10
+ West Virginia,27, East Carolina,10
+ Wisconsin,13, Michigan,27
+ Southern Mississippi,19, UCF,14
+ Auburn,24, South Carolina,17
+ BYU,31, TCU,17
+ Rutgers,22, South Florida,20
+ Akron,15, Kent State,37
+ Alabama,13, Florida,28
+ Arkansas State,31, Florida International,6
+ Boise State,36, Utah,3
+ Bowling Green,21, Ohio,9
+ California,41, Oregon State,13
+ Central Michigan,36, Kentucky,45
+ Colorado State,35, Fresno State,23
+ Colorado,13, Missouri,28
+ Eastern Illinois,9, Hawai'i,44
+ Eastern Michigan,14, Louisiana-Lafayette,33
+ Florida Atlantic,21, Louisiana-Monroe,19
+ Georgia Tech,38, Virginia Tech,27
+ Georgia,14, Mississippi,9
+ Houston,13, Miami (Florida),14
+ Idaho,41, Utah State,21
+ Illinois,23, Michigan State,20
+ Kansas State,3, Baylor,17
+ Kansas,32, Nebraska,39
+ Liberty,14, Wake Forest,34
+ Louisiana Tech,0, Clemson,51
+ Maine,0, Boston College,22
+ Miami (Ohio),10, Cincinnati,24
+ Michigan,28, Minnesota,14
+ Middle Tennessee,35, North Texas,0
+ Mississippi State,17, LSU,48
+ Nevada,31, UNLV,3
+ New Mexico State,38, UTEP,44
+ New Mexico,7, Air Force,24
+ Northern Illinois,40, Ball State,28
+ Northern Iowa,27, Iowa State,28
+ Northwestern,7, Penn State,33
+ Ohio State,38, Iowa,17
+ Oregon,48, Arizona State,13
+ Purdue,21, Notre Dame,35
+ Rice,48, Army,14
+ Sam Houston State,3, Texas,56
+ San Diego State,10, San Jose State,31
+ USC,28, Washington State,22
+ SMU,33, Tulane,28
+ Stanford,0, UCLA,31
+ Temple,14, Vanderbilt,43
+ Tennessee,41, Memphis,7
+ Texas Tech,31, Texas A&M,27
+ Toledo,3, Pittsburgh,45
+ Troy,3, UAB,21
+ Navy,41, Connecticut,17
+ Virginia,37, Duke,0
+ Washington,21, Arizona,10
+ Wisconsin,52, Indiana,17
+ Wyoming,34, Syracuse,40
+ Southern Mississippi,6, Tulsa,20
+ UCF,23, Marshall,22
+ Florida State,20, North Carolina State,24
+ TCU,7, Utah,20
+ Louisville,44, Middle Tennessee,17
+ Akron,14, Cincinnati,20
+ Arizona,7, UCLA,27
+ Arkansas,27, Auburn,10
+ Ball State,55, Buffalo,25
+ Baylor,34, Colorado,31
+ Bowling Green,7, Ohio State,35
+ Fresno State,12, Utah State,13
+ Central Michigan,42, Toledo,20
+ Clemson,27, Wake Forest,17
+ Connecticut,16, South Florida,38
+ Duke,14, Alabama,30
+ Florida International,22, North Texas,25
+ Indiana,34, Illinois,32
+ Kent State,28, Temple,17
+ LSU,10, Florida,23
+ Louisiana Tech,14, Boise State,55
+ Maryland,23, Georgia Tech,27
+ Memphis,29, UAB,35
+ Michigan State,13, Michigan,31
+ Missouri,38, Texas Tech,21
+ North Carolina,7, Miami (Florida),27
+ Nebraska,28, Iowa State,14
+ UNLV,7, Colorado State,28
+ Nevada,34, Hawai'i,41
+ New Mexico State,20, Idaho,28
+ Louisiana-Monroe,6, Arkansas State,10
+ Northwestern,9, Wisconsin,41
+ Oklahoma State,27, Kansas State,31
+ Oregon,24, California,45
+ Penn State,28, Minnesota,27
+ Pittsburgh,21, Syracuse,11
+ Purdue,17, Iowa,47
+ Rice,24, Tulane,38
+ San Diego State,17, BYU,47
+ South Carolina,24, Kentucky,17
+ SMU,21, UTEP,24
+ Louisiana-Lafayette,31, Houston,28
+ Stanford,10, Notre Dame,31
+ Tennessee,51, Georgia,33
+ Texas A&M,21, Kansas,18
+ Texas,28, Oklahoma,10
+ Navy,24, Air Force,17
+ Vanderbilt,10, Mississippi,17
+ Virginia Military,7, Army,62
+ Virginia,21, East Carolina,31
+ Washington State,13, Oregon State,6
+ Washington,20, USC,26
+ West Virginia,42, Mississippi State,14
+ Western Michigan,20, Ohio,27
+ Wyoming,14, New Mexico,10
+ Northern Illinois,28, Miami (Ohio),25
+ Clemson,63, Temple,9
+ Colorado State,21, Air Force,24
+ Southern Utah,7, Florida Atlantic,32
+ Virginia Tech,3, Boston College,22
+ Pittsburgh,52, UCF,7
+ UAB,33, Rice,34
+ Arizona State,21, USC,28
+ Arizona,20, Stanford,7
+ Arkansas State,26, Memphis,23
+ Ball State,7, Central Michigan,18
+ Baylor,31, Texas,63
+ California,21, Washington State,3
+ UCLA,20, Oregon,30
+ Cincinnati,17, Louisville,23
+ Eastern Michigan,21, Bowling Green,24
+ Florida International,0, Miami (Florida),35
+ Florida State,51, Duke,24
+ Florida,17, Auburn,27
+ Hawai'i,68, Fresno State,37
+ Houston,27, Southern Mississippi,31
+ Idaho,24, Louisiana Tech,14
+ Iowa State,9, Oklahoma,34
+ Iowa,28, Indiana,31
+ Jacksonville State,3, Mississippi State,35
+ Kentucky,0, LSU,49
+ Marshall,21, SMU,31
+ Maryland,28, Virginia,26
+ Michigan,17, Penn State,10
+ Minnesota,12, Wisconsin,48
+ Mississippi,23, Alabama,26
+ Missouri,19, Texas A&M,25
+ Nebraska,21, Kansas State,3
+ New Mexico,39, UNLV,36
+ Louisiana-Monroe,19, Troy,24
+ Northern Illinois,14, Western Michigan,16
+ Ohio State,38, Michigan State,7
+ Ohio,20, Illinois,17
+ Oklahoma State,42, Kansas,32
+ Oregon State,27, Washington,17
+ Purdue,31, Northwestern,10
+ Rutgers,34, Navy,0
+ South Florida,37, North Carolina,20
+ Southeast Missouri State,7, Arkansas,63
+ Syracuse,17, West Virginia,41
+ Texas Tech,6, Colorado,30
+ Toledo,14, Kent State,40
+ Tulane,20, UTEP,34
+ Tulsa,31, East Carolina,10
+ Army,7, Connecticut,21
+ Utah State,14, San Jose State,21
+ Utah,15, Wyoming,31
+ Vanderbilt,24, Georgia,22
+ Wake Forest,25, North Carolina State,23
+ Boise State,40, New Mexico State,28
+ Miami (Ohio),38, Buffalo,31
+ Louisiana-Lafayette,6, Florida Atlantic,0
+ Bowling Green,14, Central Michigan,31
+ North Carolina,0, Virginia,23
+ Utah,31, New Mexico,34
+ West Virginia,37, Connecticut,11
+ Alabama,13, Tennessee,16
+ Boise State,42, Idaho,26
+ Boston College,24, Florida State,19
+ Buffalo,7, Ohio,42
+ Fresno State,6, LSU,38
+ UCLA,17, Notre Dame,20
+ Colorado State,0, Wyoming,24
+ Colorado,3, Oklahoma,24
+ Georgia Tech,7, Clemson,31
+ Hawai'i,49, New Mexico State,30
+ Illinois,12, Penn State,26
+ Indiana,3, Ohio State,44
+ Iowa,6, Michigan,20
+ Kansas State,21, Missouri,41
+ Kansas,35, Baylor,36
+ Louisville,28, Syracuse,13
+ Marshall,31, UAB,24
+ Miami (Ohio),13, Akron,24
+ Miami (Florida),20, Duke,15
+ Michigan State,41, Northwestern,38
+ Middle Tennessee,35, Louisiana-Monroe,21
+ Mississippi State,24, Georgia,27
+ Mississippi,3, Arkansas,38
+ UNLV,7, BYU,52
+ North Carolina State,20, Maryland,26
+ North Dakota State,9, Minnesota,10
+ North Texas,10, Arkansas State,29
+ Oregon State,17, Arizona,10
+ Oregon,23, Washington State,34
+ Rice,40, UCF,29
+ Rutgers,20, Pittsburgh,10
+ San Jose State,7, Nevada,23
+ South Carolina,31, Vanderbilt,13
+ SMU,21, East Carolina,38
+ Southern Mississippi,6, Virginia Tech,36
+ Stanford,3, Arizona State,38
+ Temple,21, Northern Illinois,43
+ Texas A&M,34, Oklahoma State,33
+ TCU,31, Army,17
+ Texas Tech,42, Iowa State,26
+ Texas,22, Nebraska,20
+ UTEP,17, Houston,34
+ Toledo,13, Eastern Michigan,17
+ Tulane,13, Auburn,38
+ Tulsa,35, Memphis,14
+ Air Force,12, San Diego State,19
+ Utah State,35, Louisiana Tech,48
+ Washington,24, California,31
+ Western Michigan,41, Ball State,27
+ Wisconsin,24, Purdue,3
+ South Florida,6, Cincinnati,23
+ Clemson,7, Virginia Tech,24
+ UTEP,20, Tulsa,30
+ Akron,20, Toledo,35
+ Arizona State,26, Washington,23
+ Arkansas State,0, Florida Atlantic,29
+ Arkansas,44, Louisiana-Monroe,10
+ Auburn,23, Mississippi,17
+ Ball State,20, Miami (Ohio),17
+ Bowling Green,14, Temple,28
+ BYU,33, Air Force,14
+ Buffalo,0, Boston College,41
+ Cal Poly,16, San Diego State,14
+ UCF,31, Houston,51
+ Colorado,15, Kansas,20
+ East Carolina,20, Southern Mississippi,17
+ Eastern Michigan,15, Western Michigan,18
+ Florida International,3, Alabama,38
+ Florida State,24, Maryland,27
+ Florida,21, Georgia,14
+ Idaho,10, Hawai'i,68
+ Illinois,24, Wisconsin,30
+ Iowa State,10, Kansas State,31
+ Kentucky,34, Mississippi State,31
+ Louisiana Tech,10, San Jose State,44
+ Memphis,27, Marshall,41
+ Miami (Florida),23, Georgia Tech,30
+ Michigan State,21, Indiana,46
+ Middle Tennessee,34, Louisiana-Lafayette,20
+ Minnesota,0, Ohio State,44
+ Nebraska,29, Oklahoma State,41
+ UNLV,23, Utah,45
+ New Mexico State,21, Nevada,48
+ New Mexico,20, Colorado State,19
+ North Carolina State,7, Virginia,14
+ North Texas,6, Troy,14
+ Northern Illinois,14, Iowa,24
+ Northwestern,3, Michigan,17
+ Notre Dame,38, Navy,14
+ Ohio,17, Kent State,7
+ Oklahoma,26, Missouri,10
+ Penn State,12, Purdue,0
+ Portland State,12, Oregon,55
+ USC,31, Oregon State,33
+ Syracuse,3, Cincinnati,17
+ Tennessee,31, South Carolina,24
+ Texas A&M,31, Baylor,21
+ Texas,35, Texas Tech,31
+ Army,28, Tulane,42
+ Vanderbilt,45, Duke,28
+ Wake Forest,24, North Carolina,17
+ Washington State,37, UCLA,15
+ Wyoming,3, TCU,26
+ Connecticut,13, Rutgers,24
+ UAB,9, SMU,22
+ Fresno State,21, Boise State,45
+ West Virginia,34, Louisville,44
+ Air Force,43, Army,7
+ Arizona State,10, Oregon State,44
+ Arizona,27, Washington State,17
+ Arkansas State,0, Auburn,27
+ Arkansas,26, South Carolina,20
+ Ball State,26, Michigan,34
+ Baylor,21, Texas Tech,55
+ Boston College,14, Wake Forest,21
+ Bowling Green,28, Akron,35
+ BYU,24, Colorado State,3
+ UCLA,24, California,38
+ Central Michigan,42, Temple,26
+ East Carolina,23, UCF,10
+ Florida Atlantic,14, Middle Tennessee,35
+ Florida,25, Vanderbilt,19
+ Georgia Tech,31, North Carolina State,23
+ Georgia,20, Kentucky,24
+ Hawai'i,63, Utah State,10
+ Indiana,26, Minnesota,63
+ Kansas State,34, Colorado,21
+ Kansas,41, Iowa State,10
+ Kent State,14, Buffalo,41
+ LSU,28, Tennessee,24
+ Louisiana Tech,34, North Texas,31
+ Maryland,13, Clemson,12
+ Miami (Ohio),24, Western Michigan,27
+ Mississippi State,24, Alabama,16
+ Missouri,20, Nebraska,34
+ North Carolina,26, Notre Dame,45
+ Nevada,45, Idaho,7
+ Northwestern State,7, Mississippi,27
+ Northwestern,21, Iowa,7
+ Ohio State,17, Illinois,10
+ Ohio,16, Eastern Michigan,10
+ Oklahoma State,10, Texas,36
+ Oklahoma,17, Texas A&M,16
+ Penn State,3, Wisconsin,13
+ Pittsburgh,12, South Florida,22
+ Purdue,17, Michigan State,15
+ Rice,37, UTEP,31
+ San Diego State,24, Wyoming,27
+ San Jose State,31, New Mexico State,21
+ USC,42, Stanford,0
+ Louisiana-Lafayette,28, Troy,42
+ TCU,25, UNLV,10
+ Tulane,21, Marshall,42
+ Tulsa,10, Houston,27
+ Navy,38, Duke,13
+ Virginia Tech,17, Miami (Florida),10
+ Virginia,0, Florida State,33
+ Washington,14, Oregon,34
+ Southern Mississippi,42, Memphis,21
+ Toledo,17, Northern Illinois,13
+ Buffalo,16, Akron,31
+ Louisville,25, Rutgers,28
+ Wyoming,7, BYU,55
+ UTEP,36, UAB,17
+ Western Michigan,7, Central Michigan,31
+ Alabama,14, LSU,28
+ Baylor,24, Oklahoma State,66
+ Boise State,23, San Jose State,20
+ California,20, Arizona,24
+ UCF,26, Memphis,24
+ Cincinnati,24, West Virginia,42
+ Colorado State,22, Utah,35
+ Duke,7, Boston College,28
+ Georgia Tech,7, North Carolina,0
+ Georgia,37, Auburn,15
+ Houston,37, SMU,27
+ Iowa State,16, Colorado,33
+ Kent State,0, Virginia Tech,23
+ Louisiana Tech,17, Hawai'i,61
+ Marshall,20, East Carolina,33
+ Miami (Florida),13, Maryland,14
+ Michigan,34, Indiana,3
+ Middle Tennessee,38, Arkansas State,10
+ Minnesota,31, Michigan State,18
+ Nebraska,28, Texas A&M,27
+ UNLV,7, San Diego State,21
+ New Mexico State,18, Fresno State,23
+ North Carolina State,14, Clemson,20
+ North Texas,16, Louisiana-Lafayette,7
+ Louisiana-Monroe,35, Florida International,0
+ Notre Dame,39, Air Force,17
+ Ohio State,54, Northwestern,10
+ Oregon State,7, UCLA,25
+ Oregon,10, USC,35
+ Pittsburgh,45, Connecticut,46
+ Purdue,42, Illinois,31
+ Rice,41, Tulsa,38
+ South Carolina,16, Florida,17
+ Southern Mississippi,31, Tulane,3
+ Stanford,20, Washington,3
+ Syracuse,10, South Florida,27
+ Temple,0, Penn State,47
+ Tennessee,14, Arkansas,31
+ TCU,27, New Mexico,21
+ Texas Tech,24, Oklahoma,34
+ Texas,42, Kansas State,45
+ Troy,24, Florida Atlantic,17
+ Navy,49, Eastern Michigan,21
+ Utah State,0, Nevada,42
+ Vanderbilt,26, Kentucky,38
+ Wake Forest,30, Florida State,0
+ Washington State,14, Arizona State,47
+ Wisconsin,24, Iowa,21
+ Ball State,20, Toledo,17
+ Miami (Ohio),9, Bowling Green,7
+ Akron,7, Ohio,17
+ West Virginia,45, Pittsburgh,27
+ Central Michigan,10, Northern Illinois,31
+ Eastern Michigan,6, Kent State,14
+ UAB,20, Southern Mississippi,25
+ Arizona,37, Oregon,10
+ Arkansas State,33, Troy,26
+ Arkansas,28, Mississippi State,14
+ Auburn,22, Alabama,15
+ Buffalo,3, Wisconsin,35
+ California,9, USC,23
+ UCLA,24, Arizona State,12
+ UCF,9, Tulane,10
+ Connecticut,14, Syracuse,20
+ Duke,21, Georgia Tech,49
+ East Carolina,17, Rice,18
+ Florida Atlantic,17, North Texas,16
+ Houston,23, Memphis,20
+ Idaho,0, Fresno State,34
+ Illinois,16, Northwestern,27
+ Indiana,19, Purdue,28
+ Iowa,24, Minnesota,34
+ Kansas State,20, Kansas,39
+ Maryland,16, Boston College,38
+ Miami (Florida),7, Virginia,17
+ Michigan State,13, Penn State,17
+ Michigan,39, Ohio State,42
+ Middle Tennessee,7, South Carolina,52
+ Mississippi,20, LSU,23
+ Missouri,16, Iowa State,21
+ Nevada,42, Louisiana Tech,0
+ New Mexico,17, BYU,42
+ North Carolina State,9, North Carolina,23
+ Louisiana-Monroe,40, Kentucky,42
+ Oklahoma State,24, Texas Tech,30
+ Oklahoma,36, Baylor,10
+ Oregon State,30, Stanford,7
+ Rutgers,11, Cincinnati,30
+ San Diego State,0, TCU,52
+ San Jose State,17, Hawai'i,54
+ South Florida,8, Louisville,31
+ Louisiana-Lafayette,17, Florida International,7
+ Temple,6, Navy,42
+ Tennessee,39, Vanderbilt,10
+ UTEP,21, Marshall,49
+ Tulsa,24, SMU,34
+ Army,9, Notre Dame,41
+ Utah State,10, Boise State,49
+ Utah,17, Air Force,14
+ Virginia Tech,27, Wake Forest,6
+ Washington,35, Washington State,32
+ Western Carolina,0, Florida,62
+ Western Michigan,20, Florida State,28
+ Wyoming,34, UNLV,26
+ Bowling Green,21, Toledo,31
+ Boston College,14, Miami (Florida),17
+ Fresno State,34, Louisiana Tech,27
+ Central Michigan,55, Buffalo,28
+ Colorado,14, Nebraska,37
+ Kent State,6, Ball State,30
+ LSU,31, Arkansas,26
+ Northern Illinois,27, Eastern Michigan,0
+ Ohio,34, Miami (Ohio),24
+ Oregon,28, Oregon State,30
+ Texas A&M,12, Texas,7
+ Tulane,3, Tulsa,38
+ Air Force,39, UNLV,42
+ Western Michigan,17, Akron,0
+ UAB,22, UCF,31
+ Arizona State,28, Arizona,14
+ Arkansas State,13, Louisiana-Lafayette,28
+ Boise State,38, Nevada,7
+ BYU,33, Utah,31
+ Cincinnati,26, Connecticut,23
+ East Carolina,21, North Carolina State,16
+ Florida International,0, Florida Atlantic,31
+ Florida,21, Florida State,14
+ Georgia Tech,12, Georgia,15
+ Kansas,17, Missouri,42
+ Kentucky,12, Tennessee,17
+ Louisville,48, Pittsburgh,24
+ Marshall,7, Southern Mississippi,42
+ Memphis,38, UTEP,19
+ Mississippi State,17, Mississippi,20
+ North Carolina,45, Duke,44
+ New Mexico State,42, Utah State,20
+ North Texas,3, Louisiana-Monroe,23
+ Notre Dame,24, USC,44
+ Oklahoma,27, Oklahoma State,21
+ Purdue,35, Hawai'i,42
+ San Diego State,14, New Mexico,41
+ San Jose State,28, Idaho,13
+ South Carolina,31, Clemson,28
+ South Florida,24, West Virginia,19
+ SMU,27, Rice,31
+ Syracuse,7, Rutgers,38
+ TCU,45, Colorado State,14
+ Troy,21, Middle Tennessee,20
+ Virginia,0, Virginia Tech,17
+ Wake Forest,38, Maryland,24
+ Central Michigan,31, Ohio,10
+ Southern Mississippi,20, Houston,34
+ Arkansas,28, Florida,38
+ Fresno State,14, San Jose State,24
+ Colorado State,6, San Diego State,17
+ Connecticut,17, Louisville,48
+ Louisiana Tech,23, New Mexico State,50
+ Nebraska,7, Oklahoma,21
+ Louisiana-Monroe,39, Louisiana-Lafayette,20
+ Oregon State,35, Hawai'i,32
+ Rutgers,39, West Virginia,41
+ USC,9, UCLA,13
+ Stanford,17, California,26
+ Troy,26, Florida International,13
+ Air Force,14, TCU,38
+ Army,14, Navy,26
+ Wake Forest,9, Georgia Tech,6
+ Northern Illinois,7, TCU,37
+ BYU,38, Oregon,8
+ Rice,17, Troy,41
+ New Mexico,12, San Jose State,20
+ South Florida,24, East Carolina,7
+ Tulsa,13, Utah,25
+ Hawai'i,41, Arizona State,24
+ Middle Tennessee,14, Central Michigan,31
+ Florida State,44, UCLA,27
+ Oklahoma State,34, Alabama,31
+ Rutgers,37, Kansas State,10
+ Texas A&M,10, California,45
+ Clemson,20, Kentucky,28
+ Oregon State,39, Missouri,38
+ Purdue,7, Maryland,24
+ South Carolina,44, Houston,36
+ Texas Tech,44, Minnesota,41
+ Georgia,31, Virginia Tech,24
+ Texas,26, Iowa,24
+ Navy,24, Boston College,25
+ Miami (Florida),21, Nevada,20
+ Arkansas,14, Wisconsin,17
+ Auburn,17, Nebraska,14
+ Boise State,43, Oklahoma,42
+ USC,32, Michigan,18
+ Tennessee,10, Penn State,20
+ West Virginia,38, Georgia Tech,35
+ Louisville,24, Wake Forest,13
+ Notre Dame,14, LSU,41
+ Western Michigan,24, Cincinnati,27
+ Ohio,7, Southern Mississippi,28
+ Florida,41, Ohio State,14

@@ -1,0 +1,242 @@
+TEAM,CONF W,CONF L,OVERALL W,OVERALL L
+Wake Forest,7,2,11,3
+Boston College,5,3,10,3
+Maryland,5,3,9,4
+Clemson,5,3,8,5
+Florida State,3,5,7,6
+NC State,2,6,3,9
+Georgia Tech,7,2,9,5
+Virginia Tech,6,2,10,3
+Virginia,4,4,5,7
+Miami (FL),4,5,7,6
+North Carolina,2,6,3,9
+Duke,0,8,0,12
+Nebraska,6,3,9,5
+Missouri,4,4,8,5
+Kansas State,4,4,7,6
+Kansas,3,5,6,6
+Colorado,2,6,2,10
+Iowa State,1,7,4,8
+Oklahoma,8,1,11,3
+Texas,6,2,10,3
+Texas A&M,5,3,9,4
+Texas Tech,4,4,8,5
+Oklahoma State,3,5,7,6
+Baylor,3,5,4,8
+Louisville,6,1,12,1
+Rutgers,5,2,11,2
+West Virginia,5,2,11,2
+South Florida,4,3,9,4
+Cincinnati,4,3,8,5
+Pittsburgh,2,5,6,6
+Connecticut,1,6,4,8
+Syracuse,1,6,4,8
+Ohio State,8,0,12,1
+Wisconsin,7,1,12,1
+Michigan,7,1,11,2
+Penn State,5,3,9,4
+Purdue,5,3,8,6
+Minnesota,3,5,6,7
+Indiana,3,5,5,7
+Iowa,2,6,6,7
+Northwestern,2,6,4,8
+Michigan State,1,7,4,8
+Illinois,1,7,2,10
+Southern Mississippi,6,3,9,5
+East Carolina,5,3,7,6
+Marshall,4,4,5,7
+UCF,3,5,4,8
+UAB,2,6,3,9
+Memphis,1,7,2,10
+Notre Dame,0,0,10,3
+Navy,0,0,9,4
+Army,0,0,3,9
+Temple,0,0,1,11
+Houston,8,1,10,4
+Rice,6,2,7,6
+Tulsa,5,3,8,5
+SMU,4,4,6,6
+UTEP,3,5,5,7
+Tulane,2,6,4,8
+Ohio,7,2,9,5
+Kent State,5,4,6,6
+Akron,3,5,5,7
+Bowling Green,3,5,4,8
+Miami (OH),2,6,2,10
+Buffalo,1,7,2,10
+Central Michigan,8,1,10,4
+Western Michigan,6,2,8,5
+Northern Illinois,5,3,7,6
+Ball State,5,3,5,7
+Toledo,3,5,5,7
+Eastern Michigan,1,7,1,11
+BYU,8,0,11,2
+TCU,6,2,11,2
+Utah,5,3,8,5
+Wyoming,5,3,6,6
+New Mexico,4,4,6,7
+Air Force,3,5,4,8
+San Diego State,3,5,3,9
+Colorado State,1,7,4,8
+UNLV,1,7,2,10
+USC,7,2,11,2
+California,7,2,10,3
+Oregon State,6,3,10,4
+UCLA,5,4,7,6
+Oregon,5,5,7,6
+Arizona State,5,5,7,6
+Arizona,4,5,6,6
+Washington State,4,5,6,6
+Washington,3,6,5,7
+Stanford,1,8,1,11
+Florida,7,1,13,1
+Tennessee,5,3,9,4
+Georgia,4,4,9,4
+Kentucky,4,4,8,5
+South Carolina,3,5,8,5
+Vanderbilt,1,7,4,8
+Arkansas,7,1,10,4
+Auburn,6,2,11,2
+LSU,6,2,11,2
+Alabama,2,6,6,7
+Ole Miss,2,6,4,8
+Mississippi State,1,7,3,9
+Troy,6,1,8,5
+Middle Tennessee,6,1,7,6
+Arkansas State,4,3,6,6
+Florida Atlantic,4,3,5,7
+Louisiana Lafayette,3,4,6,6
+Louisiana Monroe,3,4,4,8
+North Texas,2,5,3,9
+Florida Intl,0,7,0,12
+Boise State,8,0,13,0
+Hawaii,7,1,11,3
+San José State,5,3,9,4
+Nevada,5,3,8,5
+Fresno State,4,5,4,8
+Idaho,3,5,4,8
+New Mexico State,2,6,4,8
+Louisiana Tech,1,7,3,10
+Utah State,1,7,1,11
+Massachusetts,9,0,13,2
+New Hampshire,6,4,10,4
+Maine,5,4,6,6
+Northeastern,4,4,5,6
+Rhode Island,2,6,4,7
+Hofstra,1,7,2,9
+James Madison,7,1,9,3
+Villanova,5,3,6,5
+Towson,4,4,7,4
+Richmond,4,5,7,5
+Delaware,4,5,6,6
+William & Mary,1,7,3,8
+Montana,8,0,12,2
+Portland State,6,2,7,4
+Montana State,6,2,8,5
+Northern Arizona,5,4,6,5
+Sacramento State,4,4,4,7
+Weber State,3,5,4,7
+Eastern Washington,3,5,3,8
+Idaho State,1,7,2,9
+Northern Colorado,0,8,1,10
+Coastal Carolina,4,0,9,3
+Charleston Southern,2,2,9,2
+Gardner-Webb,2,2,6,5
+Liberty,2,2,6,5
+VMI,0,4,1,10
+Central Arkansas,0,0,8,3
+Winston-Salem,0,0,4,7
+Austin Peay,0,0,3,8
+Savannah State,0,0,2,9
+North Dakota State,4,0,10,1
+South Dakota State,3,1,7,4
+Cal Poly,2,2,7,4
+UC Davis,1,3,6,5
+Southern Utah,0,4,3,8
+Princeton,6,1,9,1
+Yale,6,1,8,2
+Harvard,4,3,7,3
+Cornell,3,4,5,5
+Penn,3,4,5,5
+Columbia,2,5,5,5
+Brown,2,5,3,8
+Dartmouth,2,5,2,8
+Duquesne,3,1,7,3
+Marist,3,1,4,7
+Iona,2,2,3,7
+La Salle,1,3,3,7
+St. Peter's,1,3,2,8
+Hampton,7,1,10,2
+Delaware State,6,2,8,3
+South Carolina State,6,2,7,4
+Florida A&M,5,4,7,4
+Morgan State,4,4,5,6
+Howard,4,4,5,6
+Bethune-Cookman,3,5,5,6
+Norfolk State,1,7,4,7
+North Carolina A&T,0,8,0,11
+Youngstown State,7,1,11,3
+Northern Iowa,5,2,7,4
+Illinois State,5,3,9,4
+Southern Illinois,4,3,9,4
+Western Kentucky,4,3,6,5
+Western Illinois,2,5,5,6
+Missouri State,1,6,2,9
+Indiana State,1,6,1,10
+Monmouth,6,1,10,2
+Albany,5,2,7,4
+Robert Morris,5,2,7,4
+Stony Brook,5,2,5,6
+Central Connecticut,4,3,8,3
+St Francis (PA),2,5,3,8
+Sacred Heart,1,6,2,9
+Wagner,0,7,4,7
+Eastern Illinois,7,1,8,5
+Tennessee-Martin,6,1,9,3
+Tennessee State,5,2,6,5
+Eastern Kentucky,5,3,6,5
+Jacksonville State,5,3,6,5
+Tennessee Tech,4,4,4,7
+Southeast Missouri State,2,6,4,7
+Samford,1,7,3,8
+Murray State,0,8,1,10
+Lehigh,5,1,6,5
+Lafayette,5,1,6,6
+Holy Cross,4,2,7,4
+Bucknell,3,3,6,5
+Colgate,3,3,4,7
+Fordham,1,5,3,8
+Georgetown,0,6,2,9
+San Diego,7,0,11,1
+Drake,6,1,9,2
+Davidson,5,2,6,4
+Jacksonville,4,3,4,6
+Butler,2,5,3,8
+Morehead State,2,5,2,9
+Dayton,1,6,4,6
+Valparaiso,1,6,3,8
+Appalachian State,7,0,14,1
+Furman,6,1,8,4
+Wofford,5,2,7,4
+The Citadel,4,3,5,6
+Elon,2,5,5,6
+Chattanooga,2,5,3,8
+Georgia Southern,2,5,3,8
+Western Carolina,0,7,2,9
+McNeese State,5,1,7,5
+Stephen F Austin,4,2,4,7
+Sam Houston State,4,3,6,5
+Texas State,3,3,5,6
+Nicholls State,2,4,4,7
+Northwestern State,2,4,4,7
+Southeastern Louisiana,1,5,2,9
+Alabama A&M,7,3,9,3
+Alcorn State,5,4,6,5
+Jackson State,5,4,6,5
+Mississippi Valley State,5,4,6,5
+Alabama State,5,4,5,6
+Arkansas-Pine Bluff,7,3,8,4
+Southern,4,5,5,6
+Texas Southern,3,6,3,8
+Grambling State,3,6,3,8
+Prairie View A&M,2,7,3,7

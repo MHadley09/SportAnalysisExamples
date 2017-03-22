@@ -1,0 +1,67 @@
+The model uses tempo, per play averages and deviations, time of possession, discipline, strength of schedule, and a handful of other stats to generate a team finger print and a precision. From the base finger print and precision for both teams it generates thousands of potential game finger prints. It turns each game finger print into a box score. Home field advantage is roughly 2.2 points plus a per team adjustment. After generating a predetermined number of finger prints (in this case 10k per game.) It generates a projected box score, cover percentage, and over under percentage. Last week week my model went 45-14 (76.3%) on its predictions. This is pretty spot on the predicted accuracy. If you want you can check out [prediction tracker](http://www.thepredictiontracker.com/ncaaresults.php?type=3&orderby=wpct%20desc&year=16) and you can see how various models other performed last week. This brings the season record to 239-98(70.9%).
+
+Note, I did not run any sort of injured player analysis as those tools can take over 20 to 30 minutes a game and I didn't have that kind of time.
+
+If people would like the full box score or internal breakdowns the model generates as part of the fingerprinting process, I am more than happy to dig into the data stores. Obviously the box scores generated on inspection won't be exactly the same due to the random nature of the model, but they will be very close. The projected winner, their score, and win percentage are bolded in every game.
+
+[](#f/) Visitor Team|Score|Win %|[](#f/) Home Team|Score|Win %
+--|---|---|---|--|---
+**[](#f/easternmichigan) Eastern Michigan**|**30.1**|**58.2**|[](#f/ballstate) Ball State|26.1|41.8
+**[](#f/westernmichigan) Western Michigan**|**43.3**|**94.1**|[](#f/kentstate) What are Golden Flashes|12.3|5.9
+**[](#f/toledo) Toledo**|**37.2**|**52.0**|[](#f/northernillinois) Northern Illinois|36.6|48.0
+[](#f/bowlinggreen) Bowling Green|23.2|20.8|**[](#f/akron) Akron**|**43.9**|**79.2**
+**[](#f/northcarolina) North Carolina**|**29.5**|**68.2**|[](#f/duke) Duke|19.2|31.8
+[](#f/louisiana) Louisiana-Lafayette|20.5|38.2|**[](#f/georgiasouthern) Georgia Southern**|**26.5**|**61.8**
+[](#f/utah) Utah|34.4|49.2|**[](#f/arizonastate) Arizona State**|**34.2**|**50.8**
+[](#f/bostoncollege) Boston College|10.3|6.6|**[](#f/floridastate) Florida State**|**44.4**|**93.4**
+**[](#f/northwestern) Northwestern**|**49.5**|**90.9**|[](#f/purdue) Purdue|15.8|9.1
+[](#f/pittsburgh) Pittsburgh|19.2|7.7|**[](#f/clemson) Clemson**|**53.8**|**92.3**
+[](#f/cincinnati) Cincinnati|11.9|10.0|**[](#f/ucf) UCF**|**32.2**|**90.0**
+**[](#f/pennstate) Penn State**|**38.9**|**81.2**|[](#f/indiana) Indiana|20.6|18.8
+[](#f/wakeforest) Wake Forest|9.3|4.2|**[](#f/louisville) Louisville**|**41.2**|**95.8**
+**[](#f/iowastate) Iowa State**|**38.5**|**88.4**|[](#f/kansas) Shootyhoop Birds|13.9|11.6
+[](#f/smu) SMU|28.0|43.6|**[](#f/eastcarolina) East Carolina**|**30.7**|**56.4**
+**[](#f/tulsa) Tulsa**|**41.6**|**55.3**|[](#f/navy) Navy|37.5|44.7
+**[](#f/miamioh) Miami (OH)**|**30.6**|**75.0**|[](#f/buffalo) Buffalo|17.1|25.0
+[](#f/texastech) Texas Tech|41.0|34.2|**[](#f/oklahomastate) Oklahoma State**|**54.9**|**65.8**
+[](#f/rice) Rice|20.8|22.0|**[](#f/charlotte) Charlotte**|**34.6**|**78.0**
+[](#f/newmexicostate) New Mexico State|19.2|21.5|**[](#f/arkansasstate) Arkansas State**|**36.4**|**78.5**
+**[](#f/wyoming) Wyoming**|**49.2**|**87.9**|[](#f/unlv) UNLV|24.1|12.1
+[](#f/coloradostate) Colorado State|25.6|45.0|**[](#f/airforce) Air Force**|**28.5**|**55.0**
+[](#f/mississippistate) Mississippi State|9.2|1.9|**[](#f/alabama) Alabama**|**52.0**|**98.1**
+[](#f/northtexas) North Texas|15.7|6.3|**[](#f/westernkentucky) The Grasshoppers**|**49.1**|**93.7**
+[](#f/appalachianstate) Appalachian State|20.3|38.6|**[](#f/troy) Troy**|**25.9**|**61.4**
+**[](#f/auburn) Auburn**|**40.6**|**94.1**|[](#f/georgia) Georgia|12.1|5.9
+[](#f/illinois) Illinois|7.1|4.4|**[](#f/wisconsin) Wisconsin**|**35.3**|**95.6**
+[](#f/kentucky) ...^^The reason I am used to disappointment|22.7|21.3|**[](#f/tennessee) Tennessee**|**40.6**|**78.7**
+[](#f/southcarolina) South Carolina|10.3|19.8|**[](#f/florida) Florida**|**20.8**|**80.2**
+**[](#f/lsu) LSU**|**30.5**|**70.3**|[](#f/arkansas) Arkansas|16.0|29.7
+[](#f/stanford) Stanford|21.4|33.5|**[](#f/oregon) Oregon**|**29.3**|**66.5**
+[](#f/army) Army|14.5|14|**[](#f/notredame) Notre Dame**|**40.3**|**86**
+**[](#f/miami) Miami (FL)**|**35.0**|**78.9**|[](#f/virginia) Virginia|18.3|21.1
+[](#f/utsa) UTSA|25.4|21.9|**[](#f/louisianatech) Louisiana Tech**|**46.2**|**78.1**
+[](#f/california) California|33.3|18.7|**[](#f/washingtonstate) Washington State**|**56.7**|**81.3**
+**[](#f/idaho) Idaho**|**39.8**|**83.4**|[](#f/texasstate) Texas State|18.7|16.6
+[](#f/usc) USC|20.3|20.0|**[](#f/washington) Washington**|**36.5**|**80.0**
+[](#f/oregonstate) Oregon State|15.7|18.0|**[](#f/ucla) UCLA**|**30.4**|**82.0**
+[](#f/utep) UTEP|27.3|49.7|**[](#f/fau) Florida Atlantic**|**26.3**|**50.3**
+**[](#f/boisestate) Boise State**|**49.7**|**92.1**|[](#f/hawaii) Hawaii|15.9|7.9
+**[](#f/westvirginia) West Virginia**|**28.5**|**52.0**|[](#f/texas) Texas|27.2|48.0
+[](#f/baylor) Baylor|27.7|26.4|**[](#f/oklahoma) Oklahoma**|**45.8**|**73.6**
+[](#f/ulm) Louisiana-Monroe|14.2|14.4|**[](#f/georgiastate) Georgia State**|**35.9**|**85.6**
+[](#f/vanderbilt) Vanderbilt|18.2|40.4|**[](#f/missouri) Missouri**|**22.5**|**59.6**
+[](#f/usf) South Florida|29.4|31.5|**[](#f/memphis) Memphis**|**43.3**|**68.5**
+**[](#f/michigan) Michigan**|**44.0**|**92.6**|[](#f/iowa) Iowa|9.9|7.4
+[](#f/tulane) Tulane|14.8|8.4|**[](#f/houston) Houston**|**46.8**|**91.6**
+**[](#f/colorado) Colorado**|**42.9**|**94.7**|[](#f/arizona) Arizona|9.8|5.3
+**[](#f/sandiegostate) San Diego State**|**40.1**|**91.9**|[](#f/nevada) Nevada|11.8|8.1
+[](#f/georgiatech) Georgia Tech|17.2|13.2|**[](#f/virginiatech) Virginia Tech**|**43.5**|**86.8**
+[](#f/rutgers) Rutgers|17.7|22.8|**[](#f/michiganstate) Michigan State**|**35.3**|**77.2**
+**[](#f/ohiostate) Ohio State**|**50.1**|**97.0**|[](#f/maryland) Maryland|8.6|3.0
+**[](#f/middletennessee) Middle Tennessee**|**52.0**|**90.9**|[](#f/marshall) Marshall|20.1|9.1
+
+If I am missing any games, you would like to see the detailed box score, or you have any questions please let me know.
+
+[The betting results can be found in this comment.]()
+
+

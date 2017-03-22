@@ -1,0 +1,103 @@
+Hey all,
+
+It has been a while since I have done one of these.  But they were well received last year, so I figured I might as well resume them now that I have time and data this year.  As an introduction for those who are new or don't remember  these.  All of the data for these come from my one advanced metrics and analysis.  The simulation is done using my R model that went 361-112 (76.3%) over the tracked weeks of the regular season last year.   It went 29-12 (70.7%) during the bowl season including the NCG.  This season over 2 weeks the model is 35-19, but conintues to improve as the season goes on. I will also include projected results from some of my other models such as a straight Elo, quality accounted Elo, and my MLE model.
+****
+Now with the introductions out of the way, let's take a brief look at the history of these two teams.  This section will be pretty short since Tennessee and Alabama are two of the best known teams in college football.  
+
+The rivalary is known as the Third Saturday In October as it was played on that date traditionally.  In 1992, that tradition was ened but the name stuck.  Since 1992, the game has only been played on its name date 6 times.  This year is the 7th time it was played on the correct date since 1992.  Fun fact: unlike most series, the first game of this series in 1901 ended in a tie!   After that, things didn't go so well for the Vols.  Alabama dominated the series from 1902 to 1913, the Volunteer's failed to score a single touchdown during this 9 game stretch.  The did manage to take one game during that stretch though, a 5-0 victory in 1904.
+
+Alabama and Tennessee have met on the gridiron 97 times; historically the series since then has been pretty balanced though it is slightly in Alabama's favor.  The Tide lead the series 52-38-7 (57.2%).  The largest victories for The Crimson Tide was a 51-0 victory in 1906.  Tennessee's largest win came in 1969 in a 41-14 win.  Alabama holds both the longest win streak at 11 wins from 1971 to 1981 and the current win streak of 9 games since 2007.  Tennessee's longest win streak was a streak of 7 games from the 1995 to 2001.
+
+
+****
+Now with the brief history between the two teams out of the way, let's jump into the basic adjusted stats for each team.
+
+Team|Record|YDS/G|Passing Yards/G|Rushing Yards/G|Points/G|Yards Allowed/G|Passing Yards Allowed/G|Rushing Yards Allowed / G|Points Allowed
+-|-|-|-|-|-|-|-|-|-
+[](#f/alabama) Alabama|6-0|489.8|252.8|237|44.8|293.3|223.3|70|16
+[](#f/tennessee) Tennessee|5-1|432|239.5|192.5|33.8|399.3|216.3|183|26.6
+Advantage|[Alabama](#f/alabama)|[Alabama](#f/alabama)|[Alabama](#f/alabama)|[Alabama](#f/alabama)|[Alabama](#f/alabama)|[Alabama](#f/alabama)|[Tennessee](#f/tennessee)|[Alabama](#f/alabama)|[Alabama](#f/alabama)
+
+These numbers are pretty similar with Alabama holding a slight edge in nearly every stat.  The only real differentiator is the huge advantage in rushing defense and points allowed.
+
+Let's take a look at the discipline stats.
+
+
+Team|Penalty Yards/G|Turnover For|Turnovers Against|Turnover Margin
+-|-|-|-|-
+[](#f/alabama) Alabama|52.3|13|8|+5
+[](#f/tennessee) Tennessee|59.6|13|16|-3
+Advantage|PUSH|PUSH|[Alabama](#f/alabama)|[Alabama](#f/alabama)
+
+
+****
+Now let's take at the adjusted statistics by team.  These are the adjustment each team gets in efficiency in each category based on their opponent's averages per play, strength of schedule, opponent's strength of schedule, pace of play, and a a few other small adjustments.  I generate these based on my own formulas, so they might be slightly off what you would find elsewhere.  Higher is better for offense, lower is better for defense.
+
+Team|Adjusted % Passing Yards Over Average | Adjusted % Rushing Yards Over Average|Adjusted % Points Over Average|Adjusted % Passing Yards Allowed Over Average|Adjusted % Rushing Yards Allowed Over Average|Adjusted % Points Allowed Over Average
+-|-|-|-|-|-|-
+[](#f/alabama) Alabama|126.0%|133.6%|158.0%|74.6%|52.0%|43.4%
+[](#f/tennessee) Tennessee|113.7%|132.2%|165.5%|98.8%|90.8%|87.7%
+Advantage|[Alabama](#f/alabama)|PUSH|[Tennessee](#f/tennessee)|[Alabama](#f/alabama)|[Alabama](#f/alabama)|[Alabama](#f/alabama)
+
+This stat line really doesn't look good for Tennessee.  It really illustrates how insanely good Alabama's defense has been.  There offensive has been highly effective as well.  Tennessee's offense is showing some real boom to it.  It likely won't be enough with the stifling defense of Alabama.
+
+Now strength of schedule was a big part in putting these adjustments in context, so let's take a look at that.  This year I updated my strength of schedule formula.  I no longer use teams records in my modified BCS strength of schedule. I, now, replace record with Pythagorean wins and losses in the modified BCS.  The modifications to the BCS are still pretty consistent.  I include a conference multiplier for each team based on their conferences projected impact on their PyRecord and an adjustment for location of the game as well as other minor tweaks. 
+
+Here are both teams SoS.  
+
+Team|SoS Score|SoS Rank
+-|-|-
+[](#f/alabama) Alabama|0.5660|33
+[](#f/tennessee) Tennessee|0.9295|2
+Advantage|[Tennessee](#f/tennessee)|[Tennessee](#f/tennessee)
+
+I am not sure Tennessee is definitely the second hardest schedule to date, but they certainly haven't had an easy road of it.  I also expected Alabama's schedule to be considered harder preseason, but USC's shockingly poor performance really drags them down.  Overall, the results seem pretty reasonable to me.  One way I could arguably improve this strength of schedule measure would be to remove each teams own games when evaluating opponent's, but  I actually prefer to leave them as it adds additional information we wouldn't otherwise have.  I also considered using my expected wins model, if people are interested in that data I will add it going forward.
+
+**** 
+
+Finally let's take a look at a few ranking system's and their projected results of the models mentioned above.  Elo is a standard Elo formula, QElo is an Elo derivative that includes quality of wins, and MLE is my Most Likely Elo model. MLE uses some complex math to trying and more accurately project an Elo using a log likelihood test.
+
+Team|Elo Score|QElo Score|MLE Score
+-|-|-|-
+[](#f/alabama) Alabama|1834.4|2185.9|2115.2
+[](#f/tennessee) Tennessee|1812.7|2185.9|1936.2
+Advantage|[Alabama](#f/alabama) | PUSH |[Alabama](#f/alabama) 
+
+Now we can calculate win percentage chances using each of this values.  We can calculate the El win percentage using essentially the standard Elo expected score formula and using a modified equation we can calculate win percentages based on the others.  The formula for Team A's odds of beating Team B can be calculated as follows.
+
+Let's call Team A's score Sa and Team B's Sb.
+
+Win Percentage = 1/(1 + 10 ^ ((Sb - Sa)/400))
+
+In order to account for home field advantage you simple add ~0.03 to the team score.
+
+This equation and the Elo equation give us the following results.
+
+
+Team|Elo Win %|QElo Win %|MLE Win %|Average %
+-|-|-|-|-
+[](#f/alabama) Alabama|50.1%|48.8%|70.7%|56.5%
+[](#f/tennessee) Tennessee|49.9%|51.2%|29.3%|43.5%
+Advantage|PUSH|[Tennessee](#f/tennessee) |[Alabama](#f/alabama) |[Alabama](#f/alabama)
+
+It seems using simple formulas that use only the pure scores, Alabama holds a slight edge, but this quick formulas don't account for match ups or context.  The home field advantage really helps the Vols on this front.
+
+****
+Let's take a look at the simulation now.  We ran it 100k times for good measure.  The line for this week is Alabama -13 with an over under of 57.  The rankings are from the /r/cfb Poll.
+
+Team|Pass Yards|Rush Yards|Penalty Yards|Turnovers|Score|Win %|Cover %
+----|----|----|---|----|--|--|---|---
+#1 [](#f/alabama) **Alabama**|235.0|208.8|47.5|1.3|41.2|83.0%|65.9%
+#10 [](#f/tennessee) Tennessee|206.1|125.0|38.5|2.6|20.2|17.0%|34.1%
+
+Over|Under
+---|---
+53.3% | 46.7%
+
+
+The simulator pretty heavily likes Alabama.  A big part of that is the massive defensive edge on the ground.  I think the simulator might be favoring Alabama a bit too heavily, but the stat line doesn't seem too bad to me.  We expected Alabama to win 83.0% of the time and cover the 13 point spread 65.9% of the time.  We also expect the line to end on the over 53.3% of the time based on the simulation.  My gut seems to agree with the simulation on the result of every pick though the percentages for the win seems a little high to me.  
+
+****
+What is your take on the game?  If you have any questions or comments, I am always open to criticism.  If there are any other games you would like to see run let me know.
+
+

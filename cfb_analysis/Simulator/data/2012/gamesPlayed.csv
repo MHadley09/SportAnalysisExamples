@@ -1,0 +1,839 @@
+"Visitor","Visitor.Score","Home","Home.Score"
+" Sacramento State",19," New Mexico State",49
+" UCLA",49," Rice",24
+" UCF",56," Akron",14
+" Eastern Michigan",26," Ball State",37
+" Eastern Washington",20," Idaho",3
+" Massachusetts",0," Connecticut",37
+" McNeese State",27," Middle Tennessee",21
+" Minnesota",30," UNLV",27
+" Northern Arizona",6," Arizona State",63
+" Northern Colorado",0," Utah",41
+" South Carolina",17," Vanderbilt",13
+" Southeast Missouri State",27," Central Michigan",38
+" Southern Utah",3," Utah State",34
+" Towson",21," Kent State",41
+" Washington State",6," BYU",30
+" Boise State",13," Michigan State",17
+" San Jose State",17," Stanford",20
+" Tennessee",35," North Carolina State",21
+" Villanova",10," Temple",41
+" Wagner",3," Florida Atlantic",7
+" Appalachian State",13," East Carolina",35
+" Arkansas State",34," Oregon",57
+" Austin Peay",10," Western Kentucky",49
+" Bowling Green",14," Florida",27
+" Buffalo",23," Georgia",45
+" Clemson",26," Auburn",19
+" Colorado State",22," Colorado",17
+" Eastern Kentucky",6," Purdue",48
+" Florida International",26," Duke",46
+" Hawai'i",10," USC",49
+" Idaho State",21," Air Force",49
+" Indiana State",17," Indiana",24
+" Iowa",18," Northern Illinois",17
+" Jackson State",9," Mississippi State",56
+" Jacksonville State",24," Arkansas",49
+" Lamar",0," Louisiana-Lafayette",40
+" Liberty",17," Wake Forest",20
+" Marshall",34," West Virginia",69
+" Miami (Ohio)",10," Ohio State",56
+" Miami (Florida)",41," Boston College",32
+" Michigan",14," Alabama",41
+" Murray State",3," Florida State",69
+" Nevada",31," California",24
+" North Texas",14," LSU",41
+" Northern Iowa",21," Wisconsin",26
+" Northwestern State",6," Texas Tech",44
+" Northwestern",42," Syracuse",41
+" Notre Dame",50," Navy",10
+" Ohio",24," Penn State",14
+" Oklahoma",24," UTEP",7
+" Richmond",19," Virginia",43
+" Rutgers",24," Tulane",12
+" San Diego State",12," Washington",21
+" Savannah State",0," Oklahoma State",84
+" South Dakota State",17," Kansas",31
+" Southeastern Louisiana",10," Missouri",62
+" Southern Mississippi",20," Nebraska",49
+" Southern University",21," New Mexico",66
+" Missouri State",9," Kansas State",51
+" Texas State",30," Houston",13
+" Chattanooga",13," South Florida",34
+" Tennessee-Martin",20," Memphis",17
+" UTSA",33," South Alabama",31
+" Toledo",17," Arizona",24
+" Troy",39," UAB",29
+" Tulsa",23," Iowa State",38
+" Weber State",10," Fresno State",37
+" Western Michigan",7," Illinois",24
+" William & Mary",6," Maryland",7
+" Wyoming",17," Texas",37
+" Youngstown State",31," Pittsburgh",17
+" Central Arkansas",27," Mississippi",49
+" Elon",0," North Carolina",62
+" Kentucky",14," Louisville",32
+" SMU",24," Baylor",59
+" Georgia Tech",17," Virginia Tech",20
+" Pittsburgh",10," Cincinnati",34
+" Utah",20," Utah State",27
+" Akron",38," Florida International",41
+" Arkansas",31," Louisiana-Monroe",34
+" Auburn",10," Mississippi State",28
+" Austin Peay",7," Virginia Tech",42
+" Ball State",27," Clemson",52
+" Fresno State",25," Oregon",42
+" Sacramento State",30," Colorado",28
+" UC Davis",13," San Jose State",45
+" UCF",16," Ohio State",31
+" Duke",13," Stanford",50
+" East Carolina",10," South Carolina",48
+" Eastern Illinois",21," Western Michigan",52
+" Eastern Washington",20," Washington State",24
+" Florida A&M",13," Oklahoma",69
+" Florida Atlantic",17," Middle Tennessee",31
+" Florida",20," Texas A&M",17
+" Georgia State",13," Tennessee",51
+" Georgia",41," Missouri",20
+" Grambling",0," TCU",56
+" Howard",0," Rutgers",26
+" Idaho",13," Bowling Green",21
+" Illinois State",31," Eastern Michigan",14
+" Illinois",14," Arizona State",45
+" Indiana",45," Massachusetts",6
+" Iowa State",9," Iowa",6
+" Kent State",14," Kentucky",47
+" Louisiana Tech",56," Houston",49
+" Maine",3," Boston College",34
+" Maryland",36," Temple",27
+" Memphis",28," Arkansas State",33
+" Miami (Florida)",13," Kansas State",52
+" Michigan State",41," Central Michigan",7
+" Morgan State",34," Buffalo",56
+" North Carolina",27," Wake Forest",28
+" Nebraska",30," UCLA",36
+" New Hampshire",7," Minnesota",44
+" New Mexico State",24," Ohio",51
+" New Mexico",0," Texas",45
+" Nicholls State",3," South Alabama",9
+" North Carolina State",10," Connecticut",7
+" North Dakota State",22," Colorado State",7
+" Northern Arizona",17," UNLV",14
+" Oklahoma State",38," Arizona",59
+" Penn State",16," Virginia",17
+" Purdue",17," Notre Dame",20
+" Rice",25," Kansas",24
+" Savannah State",0," Florida State",55
+" South Florida",32," Nevada",31
+" USC",42," Syracuse",29
+" Southern Illinois",14," Miami (Ohio)",30
+" Southern Utah",31," California",50
+" Missouri State",7," Louisville",35
+" Louisiana-Lafayette",37," Troy",24
+" Stephen F. Austin",0," SMU",52
+" Tennessee-Martin",7," Northern Illinois",35
+" Texas Southern",7," North Texas",34
+" Texas Tech",58," Texas State",10
+" UTEP",10," Mississippi",28
+" Toledo",34," Wyoming",31
+" Tulane",10," Tulsa",45
+" Air Force",25," Michigan",31
+" Army",7," San Diego State",42
+" Vanderbilt",13," Northwestern",23
+" Washington",3," LSU",41
+" Weber State",13," BYU",45
+" Western Carolina",24," Marshall",52
+" Western Kentucky",0," Alabama",35
+" Wisconsin",7," Oregon State",10
+" Presbyterian",3," Georgia Tech",59
+" Rutgers",23," South Florida",13
+" Washington State",35," UNLV",27
+" Alabama",52," Arkansas",0
+" UAB",6," South Carolina",49
+" Arizona State",20," Missouri",24
+" Arkansas State",13," Nebraska",42
+" Ball State",41," Indiana",39
+" Charleston So.",0," Illinois",44
+" Bethune-Cookman",10," Miami (Florida)",38
+" Boston College",13," Northwestern",22
+" Bowling Green",15," Toledo",27
+" BYU",21," Utah",24
+" Cal Poly",24," Wyoming",22
+" California",28," Ohio State",35
+" Colorado State",20," San Jose State",40
+" Colorado",14," Fresno State",69
+" Connecticut",24," Maryland",21
+" Delaware State",7," Cincinnati",23
+" East Carolina",24," Southern Mississippi",14
+" Eastern Michigan",16," Purdue",54
+" Florida Atlantic",20," Georgia",56
+" Florida International",20," UCF",33
+" Florida",37," Tennessee",20
+" Furman",7," Clemson",41
+" Houston",6," UCLA",37
+" Idaho",14," LSU",63
+" James Madison",12," West Virginia",42
+" Lamar",2," Hawai'i",54
+" Massachusetts",13," Michigan",63
+" Miami (Ohio)",12," Boise State",39
+" Middle Tennessee",48," Memphis",30
+" Mississippi State",30," Troy",24
+" Morgan State",6," Akron",66
+" North Carolina",34," Louisville",39
+" New Mexico State",28," UTEP",41
+" New Mexico",14," Texas Tech",49
+" Nicholls State",16," Tulsa",66
+" N.C. Central",17," Duke",54
+" North Dakota",41," San Diego State",49
+" North Texas",21," Kansas State",35
+" Louisiana-Monroe",28," Auburn",31
+" Northern Illinois",41," Army",40
+" Northern Iowa",16," Iowa",27
+" Northwestern State",34," Nevada",45
+" Notre Dame",20," Michigan State",3
+" Ohio",27," Marshall",24
+" Portland State",13," Washington",52
+" Rice",37," Louisiana Tech",56
+" Sam Houston State",23," Baylor",48
+" South Alabama",7," North Carolina State",31
+" South Carolina State",0," Arizona",56
+" USC",14," Stanford",21
+" Louisiana-Lafayette",24," Oklahoma State",65
+" Stony Brook",17," Syracuse",28
+" Tennessee Tech",14," Oregon",63
+" Texas A&M",48," SMU",3
+" TCU",20," Kansas",6
+" Texas",66," Mississippi",31
+" UTSA",38," Georgia State",14
+" Navy",7," Penn State",34
+" Utah State",14," Wisconsin",16
+" Virginia Tech",17," Pittsburgh",35
+" Virginia",20," Georgia Tech",56
+" Wake Forest",0," Florida State",52
+" Western Illinois",3," Iowa State",37
+" Western Kentucky",32," Kentucky",31
+" Western Michigan",23," Minnesota",28
+" Presbyterian",0," Vanderbilt",58
+" Kent State",23," Buffalo",7
+" BYU",6," Boise State",7
+" Baylor",47," Louisiana-Monroe",42
+" Akron",26," Tennessee",47
+" UAB",15," Ohio State",29
+" Alcorn St.",0," Arkansas State",56
+" Arizona",0," Oregon",49
+" Bowling Green",0," Virginia Tech",37
+" Fresno State",26," Tulsa",27
+" California",9," USC",27
+" Central Michigan",32," Iowa",31
+" Citadel",14," North Carolina State",52
+" Clemson",37," Florida State",49
+" Coastal Carolina",28," Toledo",38
+" Colorado",35," Washington State",34
+" Connecticut",24," Western Michigan",30
+" East Carolina",6," North Carolina",27
+" Eastern Michigan",7," Michigan State",23
+" Florida Atlantic",7," Alabama",40
+" Idaho State",7," Nebraska",73
+" Kansas State",24," Oklahoma",19
+" Kansas",23," Northern Illinois",30
+" Kentucky",0," Florida",38
+" LSU",12," Auburn",10
+" Louisiana Tech",52," Illinois",24
+" Louisville",28," Florida International",21
+" Marshall",54," Rice",51
+" Maryland",21," West Virginia",31
+" Massachusetts",16," Miami (Ohio)",27
+" Memphis",14," Duke",38
+" Miami (Florida)",42," Georgia Tech",36
+" Michigan",6," Notre Dame",13
+" Mississippi",39," Tulane",0
+" Missouri",10," South Carolina",31
+" Nevada",69," Hawai'i",24
+" New Mexico",27," New Mexico State",14
+" Norfolk State",10," Ohio",44
+" Oregon State",27," UCLA",20
+" Rutgers",35," Arkansas",26
+" San Jose State",38," San Diego State",34
+" South Alabama",10," Mississippi State",30
+" South Carolina State",14," Texas A&M",70
+" South Dakota",7," Northwestern",38
+" South Florida",27," Ball State",31
+" Southern Mississippi",17," Western Kentucky",42
+" Stephen F. Austin",37," Texas State",41
+" Syracuse",10," Minnesota",17
+" Temple",13," Penn State",24
+" UTEP",26," Wisconsin",37
+" Troy",14," North Texas",7
+" Air Force",35," UNLV",38
+" Army",37," Wake Forest",49
+" Utah State",31," Colorado State",19
+" Utah",7," Arizona State",37
+" Vanderbilt",3," Georgia",48
+" Virginia Military",3," Navy",41
+" Virginia",7," TCU",27
+" Wyoming",40," Idaho",37
+" Gardner-Webb",10," Pittsburgh",55
+" Stanford",13," Washington",17
+" Hawai'i",0," BYU",47
+" Arizona State",27," California",17
+" Arkansas",10," Texas A&M",58
+" Ball State",43," Kent State",45
+" Baylor",63," West Virginia",70
+" Boise State",32," New Mexico",29
+" Buffalo",17," Connecticut",24
+" UCLA",42," Colorado",14
+" Central Michigan",24," Northern Illinois",55
+" Clemson",45," Boston College",31
+" Colorado State",21," Air Force",42
+" Duke",34," Wake Forest",27
+" Florida International",20," Louisiana-Lafayette",48
+" Florida State",30," South Florida",17
+" Houston",35," Rice",14
+" Idaho",0," North Carolina",66
+" Indiana",29," Northwestern",44
+" Louisiana Tech",44," Virginia",38
+" Louisville",21," Southern Mississippi",17
+" Marshall",41," Purdue",51
+" Miami (Ohio)",56," Akron",49
+" Middle Tennessee",49," Georgia Tech",28
+" Minnesota",13," Iowa",31
+" Mississippi",14," Alabama",33
+" Missouri",21," UCF",16
+" UNLV",13," Utah State",35
+" Nevada",34," Texas State",21
+" North Carolina State",37," Miami (Florida)",44
+" North Texas",20," Florida Atlantic",14
+" Louisiana-Monroe",63," Tulane",10
+" Ohio State",17," Michigan State",16
+" Ohio",37," Massachusetts",34
+" Oregon State",38," Arizona",35
+" Oregon",51," Washington State",26
+" Penn State",35," Illinois",7
+" Rhode Island",8," Bowling Green",48
+" San Diego State",40," Fresno State",52
+" San Jose State",12," Navy",0
+" South Carolina",38," Kentucky",17
+" Stony Brook",23," Army",3
+" Tennessee",44," Georgia",51
+" TCU",24," SMU",16
+" Texas Tech",24," Iowa State",13
+" Texas",41," Oklahoma State",36
+" UTEP",18," East Carolina",28
+" UTSA",35," New Mexico State",14
+" Toledo",37," Western Michigan",17
+" Towson",22," LSU",38
+" Troy",31," South Alabama",10
+" Tulsa",49," UAB",42
+" Virginia Tech",24," Cincinnati",27
+" Western Kentucky",26," Arkansas State",13
+" Wisconsin",27," Nebraska",30
+" Arkansas State",34," Florida International",20
+" East Carolina",20," UCF",40
+" USC",38," Utah",28
+" Pittsburgh",13," Syracuse",14
+" Utah State",3," BYU",6
+" Arizona",48," Stanford",54
+" Arkansas",24," Auburn",7
+" Boise State",40," Southern Mississippi",14
+" Boston College",31," Army",34
+" Bowling Green",24," Akron",10
+" Buffalo",31," Ohio",38
+" Fresno State",28," Colorado State",7
+" UCLA",17," California",43
+" Central Michigan",35," Toledo",50
+" Connecticut",3," Rutgers",19
+" Florida State",16," North Carolina State",17
+" Georgia Tech",31," Clemson",47
+" Georgia",7," South Carolina",35
+" Hawai'i",14," San Diego State",52
+" Illinois",14," Wisconsin",31
+" Iowa State",37," TCU",23
+" Kansas",16," Kansas State",56
+" Kent State",41," Eastern Michigan",14
+" LSU",6," Florida",14
+" Massachusetts",14," Western Michigan",52
+" Miami (Ohio)",14," Cincinnati",52
+" Miami (Florida)",3," Notre Dame",41
+" Michigan State",31," Indiana",27
+" Michigan",44," Purdue",13
+" Mississippi State",27," Kentucky",14
+" Nebraska",38," Ohio State",63
+" UNLV",31," Louisiana Tech",58
+" New Mexico State",18," Idaho",26
+" North Texas",21," Houston",44
+" Louisiana-Monroe",31," Middle Tennessee",17
+" Northern Illinois",35," Ball State",23
+" Northwestern",28," Penn State",39
+" Oklahoma",41," Texas Tech",20
+" Rice",10," Memphis",14
+" South Florida",28," Temple",37
+" Southeastern Louisiana",3," UAB",52
+" SMU",17," UTEP",0
+" Texas State",14," New Mexico",35
+" Texas A&M",30," Mississippi",27
+" Tulane",13," Louisiana-Lafayette",41
+" Tulsa",45," Marshall",38
+" Navy",28," Air Force",21
+" Vanderbilt",19," Missouri",15
+" Virginia Tech",34," North Carolina",48
+" Virginia",17," Duke",42
+" Wake Forest",14," Maryland",19
+" Washington State",6," Oregon State",19
+" Washington",21," Oregon",52
+" West Virginia",48," Texas",45
+" Wyoming",28," Nevada",35
+" Arizona State",51," Colorado",17
+" UTEP",11," Tulsa",33
+" Western Kentucky",31," Troy",26
+" Navy",31," Central Michigan",13
+" Akron",28," Ohio",34
+" Alabama",42," Missouri",10
+" UAB",17," Houston",39
+" Auburn",20," Mississippi",41
+" Boston College",7," Florida State",51
+" Buffalo",3," Northern Illinois",45
+" Fresno State",10," Boise State",20
+" California",31," Washington State",17
+" Colorado State",14," San Diego State",38
+" Duke",20," Virginia Tech",41
+" Florida Atlantic",14," Louisiana-Monroe",35
+" Florida",31," Vanderbilt",17
+" Fordham",17," Cincinnati",49
+" Idaho",7," Texas State",38
+" Illinois",0," Michigan",45
+" Iowa",19," Michigan State",16
+" Kansas State",27," Iowa State",21
+" Kent State",31," Army",17
+" Kentucky",7," Arkansas",49
+" Louisville",45," Pittsburgh",35
+" Maryland",27," Virginia",20
+" Memphis",7," East Carolina",41
+" Miami (Ohio)",12," Bowling Green",37
+" Middle Tennessee",34," Florida International",30
+" North Carolina",18," Miami (Florida)",14
+" Nevada",42," UNLV",37
+" New Mexico",35," Hawai'i",23
+" Northwestern",21," Minnesota",13
+" Ohio State",52," Indiana",49
+" Oklahoma State",20," Kansas",14
+" Oregon State",42," BYU",24
+" South Alabama",29," Arkansas State",36
+" South Carolina",21," LSU",23
+" USC",24," Washington",14
+" SMU",26," Tulane",27
+" Southern Mississippi",31," UCF",38
+" Stanford",13," Notre Dame",20
+" Syracuse",15," Rutgers",23
+" Temple",17," Connecticut",14
+" Tennessee",31," Mississippi State",41
+" Texas A&M",59," Louisiana Tech",57
+" TCU",49," Baylor",21
+" Texas",21," Oklahoma",63
+" UTSA",14," Rice",34
+" Toledo",52," Eastern Michigan",47
+" Air Force",28," Wyoming",27
+" Utah State",49," San Jose State",27
+" Utah",14," UCLA",21
+" West Virginia",14," Texas Tech",49
+" Western Michigan",24," Ball State",30
+" Wisconsin",38," Purdue",14
+" Louisiana-Lafayette",23," North Texas",30
+" Houston",42," SMU",72
+" Oregon",43," Arizona State",21
+" Connecticut",10," Syracuse",40
+" Alabama",44," Tennessee",13
+" Auburn",13," Vanderbilt",17
+" Ball State",41," Central Michigan",30
+" Baylor",50," Texas",56
+" Boston College",17," Georgia Tech",37
+" Bowling Green",24," Massachusetts",0
+" BYU",14," Notre Dame",17
+" UCF",35," Memphis",17
+" Cincinnati",23," Toledo",29
+" Colorado",6," USC",50
+" East Carolina",42," UAB",35
+" Florida Atlantic",34," South Alabama",37
+" Florida International",37," Troy",38
+" Florida State",33," Miami (Florida)",20
+" Georgia",29," Kentucky",24
+" Idaho",28," Louisiana Tech",70
+" Indiana",30," Navy",31
+" Iowa State",10," Oklahoma State",31
+" Kansas State",55," West Virginia",14
+" Kansas",7," Oklahoma",52
+" LSU",24," Texas A&M",19
+" Marshall",59," Southern Mississippi",24
+" Michigan State",10," Michigan",12
+" Middle Tennessee",3," Mississippi State",45
+" Minnesota",13," Wisconsin",38
+" North Carolina",30," Duke",33
+" Nebraska",29," Northwestern",28
+" UNLV",7," Boise State",32
+" New Mexico State",7," Utah State",41
+" New Mexico",23," Air Force",28
+" North Carolina State",20," Maryland",18
+" Louisiana-Monroe",43," Western Kentucky",42
+" Northern Illinois",37," Akron",7
+" Penn State",38," Iowa",14
+" Pittsburgh",20," Buffalo",6
+" Purdue",22," Ohio State",29
+" Rice",24," Tulsa",28
+" Rutgers",35," Temple",10
+" San Diego State",39," Nevada",38
+" San Jose State",52," UTSA",24
+" South Carolina",11," Florida",44
+" South Florida",25," Louisville",27
+" Stanford",21," California",3
+" Texas Tech",56," TCU",53
+" Tulane",20," UTEP",24
+" Army",38," Eastern Michigan",48
+" Utah",7," Oregon State",21
+" Virginia Tech",17," Clemson",38
+" Wake Forest",16," Virginia",10
+" Washington",17," Arizona",52
+" Western Michigan",24," Kent State",41
+" Wyoming",14," Fresno State",42
+" Arkansas State",50," Louisiana-Lafayette",27
+" Clemson",42," Wake Forest",13
+" Cincinnati",31," Louisville",34
+" Nevada",31," Air Force",48
+" Akron",14," Central Michigan",35
+" UAB",45," Tulane",55
+" Ball State",30," Army",22
+" Baylor",21," Iowa State",35
+" Boise State",45," Wyoming",14
+" BYU",41," Georgia Tech",17
+" Fresno State",49," New Mexico",32
+" California",27," Utah",49
+" UCLA",45," Arizona State",43
+" UCF",54," Marshall",17
+" Colorado",14," Oregon",70
+" Duke",7," Florida State",48
+" Eastern Michigan",3," Bowling Green",24
+" Florida",9," Georgia",17
+" Hawai'i",27," Colorado State",42
+" Indiana",31," Illinois",17
+" Iowa",17," Northwestern",28
+" Kent State",35," Rutgers",23
+" Kentucky",10," Missouri",33
+" Louisiana Tech",28," New Mexico State",14
+" Maryland",17," Boston College",20
+" Massachusetts",7," Vanderbilt",49
+" Memphis",13," SMU",44
+" Michigan State",16," Wisconsin",13
+" Michigan",9," Nebraska",23
+" Mississippi State",7," Alabama",38
+" Mississippi",30," Arkansas",27
+" UNLV",13," San Diego State",24
+" North Carolina State",35," North Carolina",43
+" North Texas",21," Middle Tennessee",38
+" Northern Illinois",48," Western Michigan",34
+" Notre Dame",30," Oklahoma",13
+" Ohio State",35," Penn State",23
+" Ohio",20," Miami (Ohio)",23
+" Oregon State",17," Washington",20
+" Purdue",28," Minnesota",44
+" South Alabama",24," Louisiana-Monroe",38
+" USC",36," Arizona",39
+" Southern Mississippi",17," Rice",44
+" Texas State",20," San Jose State",31
+" Syracuse",37," South Florida",36
+" Temple",17," Pittsburgh",47
+" Tennessee",35," South Carolina",38
+" Texas A&M",63," Auburn",21
+" TCU",14," Oklahoma State",36
+" Texas Tech",24," Kansas State",55
+" Texas",21," Kansas",17
+" UTEP",35," Houston",45
+" Toledo",25," Buffalo",20
+" Troy",27," Florida Atlantic",34
+" Navy",56," East Carolina",28
+" Utah State",48," UTSA",17
+" Washington State",17," Stanford",24
+" Western Kentucky",14," Florida International",6
+" Eastern Michigan",14," Ohio",45
+" Middle Tennessee",34," Western Kentucky",29
+" Virginia Tech",12," Miami (Florida)",30
+" Washington",21," California",13
+" Akron",24," Kent State",35
+" Alabama",21," LSU",17
+" UAB",27," Southern Mississippi",19
+" Arizona State",26," Oregon State",36
+" Arizona",10," UCLA",66
+" Arkansas State",37," North Texas",19
+" Boston College",14," Wake Forest",28
+" Clemson",56," Duke",20
+" Colorado State",31," Wyoming",45
+" Connecticut",6," South Florida",13
+" Florida Atlantic",17," Navy",24
+" Florida International",28," South Alabama",20
+" Georgia Tech",33," Maryland",13
+" Hawai'i",10," Fresno State",45
+" Houston",28," East Carolina",48
+" Illinois",22," Ohio State",52
+" Iowa",21," Indiana",24
+" Kansas",14," Baylor",41
+" Massachusetts",0," Northern Illinois",63
+" Memphis",28," Marshall",38
+" Miami (Ohio)",24," Buffalo",27
+" Michigan",35," Minnesota",13
+" Mississippi",10," Georgia",37
+" Missouri",7," Florida",14
+" Nebraska",28," Michigan State",24
+" New Mexico State",7," Auburn",42
+" New Mexico",7," UNLV",35
+" Oklahoma State",30," Kansas State",44
+" Oklahoma",35," Iowa State",20
+" Oregon",62," USC",51
+" Penn State",34," Purdue",9
+" Pittsburgh",26," Notre Dame",29
+" Rice",49," Tulane",47
+" San Diego State",21," Boise State",19
+" San Jose State",42," Idaho",13
+" SMU",17," UCF",42
+" Texas State",7," Utah State",38
+" Louisiana-Lafayette",40," Louisiana-Monroe",24
+" Stanford",48," Colorado",0
+" Syracuse",24," Cincinnati",35
+" Temple",17," Louisville",45
+" Texas A&M",38," Mississippi State",13
+" TCU",39," West Virginia",38
+" Texas",31," Texas Tech",22
+" UTSA",27," Louisiana Tech",51
+" Troy",48," Tennessee",55
+" Tulsa",15," Arkansas",19
+" Air Force",21," Army",41
+" Vanderbilt",40," Kentucky",0
+" Virginia",33," North Carolina State",6
+" Washington State",6," Utah",49
+" Western Michigan",42," Central Michigan",31
+" Ball State",34," Toledo",27
+" Bowling Green",26," Ohio",14
+" Florida State",28," Virginia Tech",22
+" Louisiana-Monroe",23," Arkansas State",45
+" Pittsburgh",17," Connecticut",24
+" Arizona State",17," USC",38
+" Arkansas",20," South Carolina",38
+" Baylor",34," Oklahoma",42
+" Boise State",49," Hawai'i",14
+" Fresno State",52," Nevada",36
+" UCLA",44," Washington State",36
+" UCF",31," UTEP",24
+" Central Michigan",34," Eastern Michigan",31
+" Cincinnati",34," Temple",10
+" Colorado",31," Arizona",56
+" Florida Atlantic",37," Western Kentucky",28
+" Georgia Tech",68," North Carolina",50
+" Georgia",38," Auburn",0
+" Idaho",13," BYU",52
+" Iowa State",7," Texas",33
+" Kansas State",23," TCU",10
+" Kansas",34," Texas Tech",41
+" Kent State",48," Miami (Ohio)",32
+" Louisiana Tech",62," Texas State",55
+" Louisville",26," Syracuse",45
+" Marshall",31," UAB",38
+" Maryland",10," Clemson",45
+" Massachusetts",22," Akron",14
+" McNeese State",24," UTSA",31
+" Miami (Florida)",40," Virginia",41
+" Minnesota",17," Illinois",3
+" Mississippi State",17," LSU",37
+" Missouri",51," Tennessee",48
+" UNLV",11," Colorado State",33
+" Northwestern",31," Michigan",38
+" Notre Dame",21," Boston College",6
+" Oregon State",23," Stanford",27
+" Oregon",59," California",17
+" Penn State",23," Nebraska",32
+" Purdue",27," Iowa",24
+" San Jose State",47," New Mexico State",7
+" South Alabama",14," North Texas",24
+" Southern Mississippi",6," SMU",34
+" Louisiana-Lafayette",20," Florida",27
+" Texas A&M",29," Alabama",24
+" Tulane",23," Memphis",37
+" Tulsa",41," Houston",7
+" Air Force",9," San Diego State",28
+" Army",7," Rutgers",28
+" Navy",31," Troy",41
+" Utah",15," Washington",34
+" Vanderbilt",27," Mississippi",26
+" Wake Forest",6," North Carolina State",37
+" West Virginia",34," Oklahoma State",55
+" Western Michigan",24," Buffalo",29
+" Wisconsin",62," Indiana",14
+" Wyoming",28," New Mexico",23
+" Ohio",27," Ball State",52
+" Toledo",24," Northern Illinois",31
+" North Carolina",37," Virginia",13
+" Florida International",34," Florida Atlantic",24
+" Hawai'i",7," Air Force",21
+" Alabama A&M",7," Auburn",51
+" Arizona",34," Utah",24
+" Arkansas State",41," Troy",34
+" Arkansas",14," Mississippi State",45
+" BYU",14," San Jose State",20
+" Buffalo",29," Massachusetts",19
+" California",14," Oregon State",62
+" UCF",21," Tulsa",23
+" Colorado State",14," Boise State",42
+" Duke",24," Georgia Tech",42
+" East Carolina",28," Tulane",23
+" Eastern Michigan",29," Western Michigan",23
+" Florida State",41," Maryland",14
+" Georgia Southern",14," Georgia",45
+" Houston",41," Marshall",44
+" Indiana",22," Penn State",45
+" Iowa State",51," Kansas",23
+" Iowa",17," Michigan",42
+" Jacksonville State",0," Florida",23
+" Kansas State",24," Baylor",52
+" Kent State",31," Bowling Green",24
+" Memphis",46," UAB",9
+" Miami (Ohio)",16," Central Michigan",30
+" Middle Tennessee",20," South Alabama",12
+" Minnesota",14," Nebraska",38
+" Mississippi",35," LSU",41
+" Nevada",31," New Mexico",24
+" North Carolina State",48," Clemson",62
+" North Texas",16," Louisiana-Monroe",42
+" Northwestern",23," Michigan State",20
+" Ohio State",21," Wisconsin",14
+" Oklahoma",50," West Virginia",49
+" Purdue",20," Illinois",17
+" Rutgers",10," Cincinnati",3
+" Sam Houston State",28," Texas A&M",47
+" Samford",3," Kentucky",34
+" South Florida",9," Miami (Florida)",40
+" USC",28," UCLA",38
+" SMU",14," Rice",36
+" Texas State",10," Navy",21
+" Stanford",17," Oregon",14
+" Syracuse",31," Missouri",27
+" Temple",63," Army",32
+" Tennessee",18," Vanderbilt",41
+" Texas Tech",21," Oklahoma State",59
+" UTEP",34," Southern Mississippi",33
+" UTSA",34," Idaho",27
+" Utah State",48," Louisiana Tech",41
+" Virginia Tech",30," Boston College",23
+" Wake Forest",0," Notre Dame",38
+" Washington State",7," Arizona State",46
+" Washington",38," Colorado",3
+" Western Carolina",0," Alabama",49
+" Western Kentucky",27," Louisiana-Lafayette",31
+" Wyoming",28," UNLV",23
+" Wofford",7," South Carolina",24
+" Akron",23," Toledo",35
+" TCU",20," Texas",13
+" Arizona State",41," Arizona",34
+" Ball State",31," Miami (Ohio)",24
+" Buffalo",7," Bowling Green",21
+" Central Michigan",42," Massachusetts",21
+" LSU",20," Arkansas",13
+" Marshall",59," East Carolina",65
+" Nebraska",13," Iowa",7
+" Northern Illinois",49," Eastern Michigan",7
+" Ohio",6," Kent State",28
+" South Florida",10," Cincinnati",27
+" Syracuse",38," Temple",20
+" Utah",42," Colorado",35
+" Washington",28," Washington State",31
+" West Virginia",31," Iowa State",24
+" UAB",24," UCF",49
+" Auburn",0," Alabama",49
+" Baylor",52," Texas Tech",45
+" Boston College",10," North Carolina State",27
+" BYU",50," New Mexico State",14
+" Connecticut",23," Louisville",20
+" Florida",37," Florida State",26
+" Georgia Tech",10," Georgia",42
+" Idaho",9," Utah State",45
+" Illinois",14," Northwestern",50
+" Indiana",35," Purdue",56
+" Kentucky",17," Tennessee",37
+" Louisiana Tech",43," San Jose State",52
+" Maryland",38," North Carolina",45
+" Miami (Florida)",52," Duke",45
+" Michigan State",26," Minnesota",10
+" Michigan",21," Ohio State",26
+" Mississippi State",24," Mississippi",41
+" Missouri",29," Texas A&M",59
+" UNLV",10," Hawai'i",48
+" New Mexico",20," Colorado State",24
+" North Texas",24," Western Kentucky",25
+" Louisiana-Monroe",23," Florida International",17
+" Notre Dame",22," USC",13
+" Oklahoma State",48," Oklahoma",51
+" Oregon",48," Oregon State",24
+" Rice",33," UTEP",24
+" Rutgers",6," Pittsburgh",27
+" San Diego State",42," Wyoming",28
+" South Alabama",30," Louisiana-Lafayette",52
+" South Carolina",27," Clemson",17
+" Southern Mississippi",24," Memphis",42
+" Texas State",31," UTSA",38
+" Stanford",35," UCLA",17
+" Troy",21," Middle Tennessee",24
+" Tulane",17," Houston",40
+" Tulsa",27," SMU",35
+" Air Force",15," Fresno State",48
+" Vanderbilt",55," Wake Forest",21
+" Virginia",14," Virginia Tech",17
+" Wisconsin",21," Penn State",24
+" Louisville",20," Rutgers",17
+" UCLA",24," Stanford",27
+" Northern Illinois",44," Kent State",37
+" Alabama",32," Georgia",28
+" Boise State",27," Nevada",21
+" UCF",27," Tulsa",33
+" Cincinnati",34," Connecticut",17
+" Florida State",21," Georgia Tech",15
+" Kansas",10," West Virginia",59
+" Middle Tennessee",0," Arkansas State",45
+" Nebraska",31," Wisconsin",70
+" New Mexico State",28," Texas State",66
+" Nicholls State",3," Oregon State",77
+" Oklahoma State",34," Baylor",41
+" Oklahoma",24," TCU",17
+" Pittsburgh",27," South Florida",3
+" South Alabama",7," Hawai'i",23
+" Louisiana-Lafayette",35," Florida Atlantic",21
+" Texas",24," Kansas State",42
+" Navy",17," Army",13
+" Nevada",48," Arizona",49
+" Toledo",15," Utah State",41
+" BYU",23," San Diego State",6
+" Ball State",17," UCF",38
+" East Carolina",34," Louisiana-Lafayette",43
+" Washington",26," Boise State",28
+" Fresno State",10," SMU",43
+" Western Kentucky",21," Central Michigan",24
+" Baylor",49," UCLA",26
+" Cincinnati",48," Duke",34
+" San Jose State",29," Bowling Green",20
+" Minnesota",31," Texas Tech",34
+" Ohio",45," Louisiana-Monroe",14
+" Rutgers",10," Virginia Tech",13
+" Rice",33," Air Force",14
+" TCU",16," Michigan State",17
+" Texas",31," Oregon State",27
+" Navy",28," Arizona State",62
+" West Virginia",14," Syracuse",38
+" Iowa State",17," Tulsa",31
+" LSU",24," Clemson",25
+" North Carolina State",24," Vanderbilt",38
+" USC",7," Georgia Tech",21
+" Georgia",45," Nebraska",31
+" Mississippi State",20," Northwestern",34
+" Northern Illinois",10," Florida State",31
+" Purdue",14," Oklahoma State",58
+" South Carolina",33," Michigan",28
+" Wisconsin",14," Stanford",20
+" Louisville",33," Florida",23
+" Oregon",35," Kansas State",17
+" Texas A&M",41," Oklahoma",13
+" Pittsburgh",17," Mississippi",38
+" Kent State",13," Arkansas State",17
+" Alabama",42," Notre Dame",14
