@@ -1,0 +1,840 @@
+Visitor.Team,Visitor.Score,Home.Team,Home.Score,Winner
+Hawaii,68.1,Massachusetts,31.9,Hawaii
+Oregon State,57,Colorado State,43,Colorado State
+Portland State,1.6,BYU,98.4,BYU
+USF,89.3,San Jose State,10.7,USF
+Stanford,97.7,Rice,2.3,Stanford
+FIU,7,UCF,93,UCF
+Presbyterian,1.5,Wake Forest,98.5,Wake Forest
+Austin Peay,1.5,Cincinnati,98.5,Cincinnati
+Buffalo,2.8,Minnesota,97.2,Minnesota
+Tennessee State,15.8,Georgia State,84.2,Georgia State
+Elon,2.1,Toledo,97.9,Toledo
+Rhode Island,1.8,Central Michigan,98.2,Central Michigan
+Tulsa,3.8,Oklahoma State,96.2,Oklahoma State
+Holy Cross,5.5,Connecticut,94.5,Connecticut
+North Dakota,8.6,Utah,91.4,Utah
+Ohio State,94.8,Indiana,5.2,Ohio State
+Florida A&M,1.3,Arkansas,98.7,Arkansas
+UL-Monroe,12.2,Memphis,87.8,Memphis
+Sacramento State,11.9,Idaho,88.1,Idaho
+New Mexico State,6.6,Arizona State,93.4,Arizona State
+Fordham,3.5,Army,96.5,Army
+Charlotte,17.3,Eastern Michigan,82.7,Eastern Michigan
+Central Connecticut,2,Syracuse,98,Syracuse
+Navy,91.3,FAU,8.7,Navy
+Colorado State,11.3,Colorado,88.7,Colorado
+Washington,95.9,Rutgers,4.1,Washington
+Utah State,1.5,Wisconsin,98.5,Wisconsin
+Boston College,65.2,Northern Illinois,34.8,Northern Illinois
+Georgia Southern,4.9,Auburn,95.1,Auburn
+Charleston Southern,1.7,Mississippi State,98.3,Mississippi State
+Missouri State,3.6,Missouri,96.4,Missouri
+VMI,2.2,Air Force,97.8,Air Force
+Ball State,14.2,Illinois,85.8,Illinois
+Wyoming,30.8,Iowa,69.2,Wyoming
+Bowling Green,4.8,Michigan State,95.2,Michigan State
+Akron,1.5,Penn State,98.5,Penn State
+Maryland,16.8,Texas,83.2,Texas
+Kent State,0.7,Clemson,99.3,Clemson
+California,32.7,North Carolina,67.3,North Carolina
+Lamar,8,North Texas,92,North Texas
+Liberty,3,Baylor,97,Baylor
+Bethune-Cookman,1,Miami (FL),99,Miami (FL)
+Youngstown State,8,Pittsburgh,92,Pittsburgh
+Portland State,5.5,Oregon State,94.5,Oregon State
+NC State,54.2,South Carolina,45.8,NC State
+Michigan,66.6,Florida,33.4,Michigan
+Temple,18.3,Notre Dame,81.7,Notre Dame
+UTEP,1.8,Oklahoma,98.2,Oklahoma
+Nevada,10.3,Northwestern,89.7,Northwestern
+William & Mary,7.5,Virginia,92.5,Virginia
+Alabama A&M,18.4,UAB,81.6,UAB
+Troy,14.9,Boise State,85.1,Boise State
+Stony Brook,0.8,USF,99.2,USF
+Eastern Washington,14.6,Texas Tech,85.4,Eastern Washington
+Kentucky,81.5,Southern Miss,18.5,Kentucky
+Western Michigan,4.3,USC,95.7,USC
+NC Central,3,Duke,97,Duke
+James Madison,24.2,East Carolina,75.8,East Carolina
+Albany,7.8,Old Dominion,92.2,Old Dominion
+Appalachian State,15.9,Georgia,84.1,Georgia
+Miami (OH),47.6,Marshall,52.4,Marshall
+Northwestern State,3.5,Louisiana Tech,96.5,Louisiana Tech
+Houston,92.4,UTSA,7.6,Houston
+Eastern Kentucky,6.9,Western Kentucky,93.1,Western Kentucky
+Massachusetts,43.7,Coastal Carolina,56.3,Coastal Carolina
+SE Missouri State,5.4,Kansas,94.6,Kansas
+Stephen F. Austin,3.5,SMU,96.5,SMU
+Grambling,6.7,Tulane,93.3,Tulane
+Hampton,1.9,Ohio,98.1,Ohio
+South Alabama,5.2,Ole Miss,94.8,Ole Miss
+Houston Baptist,3.5,Texas State,96.5,Houston Baptist
+Central Arkansas,2.9,Kansas State,97.1,Kansas State
+Louisville,93.8,Purdue,6.2,Louisville
+Arkansas State,2.5,Nebraska,97.5,Nebraska
+Northern Iowa,16.9,Iowa State,83.1,Iowa State
+Jackson State,0.7,TCU,99.3,TCU
+Florida State,32,Alabama,68,Alabama
+Vanderbilt,79.2,Middle Tennessee,20.8,Vanderbilt
+Southern Utah,1.2,Oregon,98.8,Oregon
+UC Davis,4.5,San Diego State,95.5,San Diego State
+Howard,2.7,UNLV,97.3,UNLV
+BYU,9.3,LSU,90.7,LSU
+Montana State,5.9,Washington State,94.1,Washington State
+Northern Arizona,2,Arizona,98,Arizona
+Abilene Christian,3.2,New Mexico,96.8,New Mexico
+Incarnate Word,2.2,Fresno State,97.8,Fresno State
+SE Louisiana,5,UL-Lafayette,95,UL-Lafayette
+Western Carolina,5.7,Hawaii,94.3,Hawaii
+Cal Poly,6.3,San Jose State,93.7,San Jose State
+Texas A&M,56.3,UCLA,43.7,UCLA
+West Virginia,45.6,Virginia Tech,54.4,West Virginia
+Tennessee,57.5,Georgia Tech,42.5,Georgia Tech
+Idaho State,10.9,Utah State,89.1,Utah State
+Oklahoma State,97.1,South Alabama,2.9,Oklahoma State
+Ohio,39.8,Purdue,60.2,Ohio
+Northwestern,69.6,Duke,30.4,Northwestern
+Louisville,84,North Carolina,16,Louisville
+Jacksonville State,4.1,Georgia Tech,95.9,Jacksonville State
+Wake Forest,65.7,Boston College,34.3,Wake Forest
+Indiana,61.2,Virginia,38.8,Virginia
+Middle Tennessee,21.9,Syracuse,78.1,Syracuse
+Delaware,1.8,Virginia Tech,98.2,Virginia Tech
+Marshall,7.3,NC State,92.7,NC State
+Auburn,30.7,Clemson,69.3,Clemson
+UL-Monroe,1.8,Florida State,98.2,Florida State
+USF,92.8,Connecticut,7.2,USF
+Villanova,7.5,Temple,92.5,Temple
+Tulane,10.1,Navy,89.9,Navy
+UL-Lafayette,28.4,Tulsa,71.6,Tulsa
+North Texas,13.7,SMU,86.3,SMU
+Memphis,47.8,UCF,52.2,UCF
+Charlotte,1.2,Kansas State,98.8,Kansas State
+Iowa,74.6,Iowa State,25.4,Iowa
+East Carolina,7.7,West Virginia,92.3,West Virginia
+San Jose State,5.9,Texas,94.1,Texas
+Central Michigan,53.7,Kansas,46.3,Central Michigan
+UTSA,9.7,Baylor,90.3,Baylor
+Towson,1.5,Maryland,98.5,Maryland
+Cincinnati,7.4,Michigan,92.6,Michigan
+FAU,2.4,Wisconsin,97.6,Wisconsin
+Western Michigan,18.6,Michigan State,81.4,Michigan State
+Pittsburgh,23.7,Penn State,76.3,Penn State
+Eastern Michigan,40.7,Rutgers,59.3,Rutgers
+Oklahoma,31.1,Ohio State,68.9,Ohio State
+Western Kentucky,46.6,Illinois,53.4,Western Kentucky
+Alcorn State,12.7,FIU,87.3,FIU
+Southern,6.2,Southern Miss,93.8,Southern Miss
+Mississippi State,76.1,Louisiana Tech,23.9,Mississippi State
+Rice,43,UTEP,57,UTEP
+Old Dominion,76,Massachusetts,24,Old Dominion
+Buffalo,8.8,Army,91.2,Army
+Georgia,72.8,Notre Dame,27.2,Georgia
+Utah,67.9,BYU,32.1,Utah
+UAB,52.2,Ball State,47.8,Ball State
+Austin Peay,4.7,Miami (OH),95.3,Miami (OH)
+Eastern Illinois,1.6,Northern Illinois,98.4,Northern Illinois
+Howard,5,Kent State,95,Kent State
+South Dakota,26.6,Bowling Green,73.4,Bowling Green
+UA-Pine Bluff,5.3,Akron,94.7,Akron
+Abilene Christian,2.5,Colorado State,97.5,Colorado State
+Gardner-Webb,1.9,Wyoming,98.1,Wyoming
+New Mexico State,22.6,New Mexico,77.4,New Mexico
+Toledo,65.4,Nevada,34.6,Nevada
+Texas State,1.2,Colorado,98.8,Colorado
+Nebraska,56,Oregon,44,Oregon
+Hawaii,8.5,UCLA,91.5,UCLA
+Weber State,1.2,California,98.8,California
+Montana,3.9,Washington,96.1,Washington
+Stanford,34.1,USC,65.9,USC
+Minnesota,75.2,Oregon State,24.8,Oregon State
+Houston,62.8,Arizona,37.2,Arizona
+Boise State,44.9,Washington State,55.1,Washington State
+San Diego State,38.8,Arizona State,61.2,Arizona State
+Northern Colorado,3.3,Florida,96.7,Florida
+Eastern Kentucky,5.7,Kentucky,94.3,Kentucky
+Chattanooga,3,LSU,97,LSU
+UT-Martin,4.2,Ole Miss,95.8,Ole Miss
+Indiana State,2.4,Tennessee,97.6,Tennessee
+Alabama A&M,5.1,Vanderbilt,94.9,Vanderbilt
+Fresno State,4.8,Alabama,95.2,Alabama
+TCU,68,Arkansas,32,Arkansas
+South Carolina,61.7,Missouri,38.3,South Carolina
+Nicholls,3.6,Texas A&M,96.4,Texas A&M
+Miami (FL),90.5,Arkansas State,9.5,Miami (FL)
+Savannah State,1.9,Appalachian State,98.1,Appalachian State
+New Hampshire,6.3,Georgia Southern,93.7,Georgia Southern
+Alabama State,7.5,Troy,92.5,Troy
+UNLV,54.2,Idaho,45.8,UNLV
+New Mexico,11.5,Boise State,88.5,Boise State
+Illinois,15.1,USF,84.9,USF
+Massachusetts,7.4,Temple,92.6,Temple
+Arizona,89.3,UTEP,10.7,Arizona
+Oklahoma State,84.2,Pittsburgh,15.8,Oklahoma State
+Notre Dame,82.2,Boston College,17.8,Notre Dame
+Connecticut,22,Virginia,78,Connecticut
+Furman,2.3,NC State,97.4,NC State
+Baylor,64.2,Duke,35.8,Duke
+Utah State,18.8,Wake Forest,81.2,Wake Forest
+Central Michigan,38.2,Syracuse,61.8,Syracuse
+Clemson,57.6,Louisville,42.4,Clemson
+Miami (FL),17.4,Florida State,82.6,Florida State
+UCLA,83.5,Memphis,16.5,UCLA
+Virginia Tech,88.5,East Carolina,11.5,Virginia Tech
+Georgia Tech,66.2,UCF,33.8,UCF
+Rice,3.9,Houston,96.1,Rice
+Delaware State,2.6,West Virginia,97.4,West Virginia
+SMU,11,TCU,89,SMU
+Tulane,3.4,Oklahoma,96.6,Oklahoma
+Arizona State,53.6,Texas Tech,46.4,Arizona State
+Air Force,4.7,Michigan,95.3,Michigan
+Northern Illinois,7.1,Nebraska,92.9,Nebraska
+Middle Tennessee,9,Minnesota,91,Middle Tennessee
+FIU,14,Indiana,86,Indiana
+North Texas,2.6,Iowa,97.4,Iowa
+Morgan State,10.5,Rutgers,89.5,Rutgers
+Army,6.8,Ohio State,93.2,Ohio State
+Bowling Green,6.3,Northwestern,93.7,Northwestern
+Georgia State,4.9,Penn State,95.1,Penn State
+Coastal Carolina,48.5,UAB,51.5,UAB
+Southern,18.4,UTSA,81.6,UTSA
+North Carolina,81.5,Old Dominion,18.5,North Carolina
+North Carolina A&T,21.3,Charlotte,78.7,Charlotte
+Kent State,23.6,Marshall,76.4,Marshall
+Louisiana Tech,23.2,Western Kentucky,76.8,Western Kentucky
+Bethune-Cookman,9.3,FAU,90.7,FAU
+Wisconsin,89.2,BYU,10.8,Wisconsin
+Iowa State,83.5,Akron,16.5,Iowa State
+Kansas,50.8,Ohio,49.2,Kansas
+Tennessee Tech,12.6,Ball State,87.4,Tennessee Tech
+Colgate,13.5,Buffalo,86.5,Buffalo
+Tulsa,47.8,Toledo,52.2,Tulsa
+Idaho,29.9,Western Michigan,70.1,Western Michigan
+Cincinnati,79,Miami (OH),21,Cincinnati
+Idaho State,4.4,Nevada,95.6,Nevada
+Oregon,73.1,Wyoming,26.9,Oregon
+Stanford,88.9,San Diego State,11.1,Stanford
+Northern Colorado,2.1,Colorado,97.9,Colorado
+Oregon State,14.2,Washington State,85.8,Washington State
+Texas,20.8,USC,79.2,USC
+Fresno State,2.1,Washington,97.9,Washington
+San Jose State,3.5,Utah,96.5,Utah
+Ole Miss,71.4,California,28.6,Ole Miss
+Mercer,4,Auburn,96,Auburn
+Samford,3.4,Georgia,96.6,Georgia
+Purdue,24.3,Missouri,75.7,Missouri
+Kentucky,45.1,South Carolina,54.9,Kentucky
+UL-Lafayette,7.4,Texas A&M,92.6,Texas A&M
+Tennessee,28.1,Florida,71.9,Florida
+Colorado State,7.1,Alabama,92.9,Alabama
+LSU,80.7,Mississippi State,19.3,LSU
+Kansas State,80.6,Vanderbilt,19.4,Kansas State
+Appalachian State,89.3,Texas State,10.7,Appalachian State
+UA-Pine Bluff,8.3,Arkansas State,91.7,Arkansas State
+Alabama A&M,13.3,South Alabama,86.7,South Alabama
+Southern Miss,77.6,UL-Monroe,22.4,Southern Miss
+Troy,82,New Mexico State,18,Troy
+Temple,17.8,USF,82.2,USF
+Virginia,16.7,Boise State,83.3,Boise State
+Utah,83.5,Arizona,16.5,Arizona
+Boston College,6.4,Clemson,93.6,Clemson
+Duke,28.4,North Carolina,71.6,Duke
+NC State,20.5,Florida State,79.5,Florida State
+Pittsburgh,47.1,Georgia Tech,52.9,Pittsburgh
+Kent State,3.2,Louisville,96.8,Louisville
+Toledo,8.8,Miami (FL),91.2,Miami (FL)
+Old Dominion,7.4,Virginia Tech,92.6,Virginia Tech
+Texas Tech,42.4,Houston,57.6,Houston
+Army,79.6,Tulane,20.4,Army
+New Mexico,24.5,Tulsa,75.5,Tulsa
+Cincinnati,24.7,Navy,75.3,Navy
+Arkansas State,14.2,SMU,85.8,SMU
+Southern Illinois,7.9,Memphis,92.1,Memphis
+West Virginia,88.2,Kansas,11.8,West Virginia
+Oklahoma,94.1,Baylor,5.9,Oklahoma
+TCU,11.7,Oklahoma State,88.3,Oklahoma State
+Georgia Southern,20.5,Indiana,79.5,Indiana
+Penn State,71.9,Iowa,28.1,Iowa
+UCF,60.5,Maryland,39.5,UCF
+UNLV,5.6,Ohio State,94.4,Ohio State
+Michigan,91.4,Purdue,8.6,Michigan
+Rutgers,8.7,Nebraska,91.3,Nebraska
+Notre Dame,48.2,Michigan State,51.8,Notre Dame
+Georgia State,67,Charlotte,33,Georgia State
+UAB,54.3,North Texas,45.7,UAB
+Bowling Green,27.5,Middle Tennessee,72.5,Middle Tennessee
+Ball State,7.1,Western Kentucky,92.9,Western Kentucky
+FIU,31.5,Rice,68.5,Rice
+FAU,53.4,Buffalo,46.6,Buffalo
+Miami (OH),18.9,Central Michigan,81.1,Central Michigan
+Ohio,65.4,Eastern Michigan,34.6,Ohio
+Wagner,3.1,Western Michigan,96.9,Western Michigan
+Utah State,60.6,San Jose State,39.4,Utah State
+Hawaii,17.3,Wyoming,82.7,Wyoming
+San Diego State,45.5,Air Force,54.5,San Diego State
+Oregon,69.7,Arizona State,30.3,Oregon
+USC,90.4,California,9.6,USC
+UCLA,29,Stanford,71,UCLA
+Washington,68.6,Colorado,31.4,Washington
+Nevada,8.7,Washington State,91.3,Washington State
+Alabama,87.4,Vanderbilt,12.6,Alabama
+Mississippi State,16.3,Georgia,83.7,Georgia
+Florida,66.6,Kentucky,33.4,Florida
+Syracuse,9.2,LSU,90.8,LSU
+Auburn,85.2,Missouri,14.9,Auburn
+Louisiana Tech,16.3,South Carolina,83.7,South Carolina
+Massachusetts,7.4,Tennessee,92.6,Tennessee
+Arkansas,46.9,Texas A&M,53.1,Arkansas
+Wake Forest,45.5,Appalachian State,54.4,Appalachian State
+Akron,10,Troy,90,Troy
+Idaho,41.9,South Alabama,58.1,Idaho
+UL-Monroe,14.7,UL-Lafayette,85.3,UL-Lafayette
+Western Illinois,15.9,Coastal Carolina,84.1,Western Illinois
+UTSA,75.8,Texas State,24.2,UTSA
+UTEP,69.3,New Mexico State,30.7,UTEP
+Texas,65.6,Iowa State,34.4,Texas
+Miami (FL),78.2,Duke,21.8,Duke
+Nebraska,90.2,Illinois,9.8,Nebraska
+BYU,67.6,Utah State,32.4,BYU
+USC,56.9,Washington State,43.1,USC
+Central Michigan,54.9,Boston College,45.1,Central Michigan
+North Carolina,40.5,Georgia Tech,59.5,Georgia Tech
+Florida State,86.6,Wake Forest,13.4,Florida State
+Murray State,3.1,Louisville,96.9,Louisville
+Syracuse,18,NC State,82,NC State
+Rice,11.6,Pittsburgh,88.4,Pittsburgh
+Clemson,49.5,Virginia Tech,50.5,Virginia Tech
+Connecticut,8.8,SMU,91.2,SMU
+USF,85.4,East Carolina,14.6,USF
+Houston,63.5,Temple,36.5,Houston
+Navy,70,Tulsa,30,Tulsa
+Maine,3.8,UCF,96.2,UCF
+Marshall,21.4,Cincinnati,78.6,Cincinnati
+Baylor,13.3,Kansas State,86.7,Kansas State
+Oklahoma State,86.3,Texas Tech,13.7,Oklahoma State
+Iowa,62.8,Michigan State,37.2,Iowa
+Maryland,22.1,Minnesota,77.9,Minnesota
+Indiana,9.6,Penn State,90.4,Penn State
+Ohio State,85.4,Rutgers,14.6,Ohio State
+Northwestern,22.6,Wisconsin,77.4,Wisconsin
+South Alabama,25.4,Louisiana Tech,74.6,South Alabama
+North Texas,17.6,Southern Miss,82.4,Southern Miss
+Charlotte,29,FIU,71,FIU
+Middle Tennessee,55.2,FAU,44.8,Middle Tennessee
+Ohio,84,Massachusetts,16,Massachusetts
+UTEP,12.3,Army,87.7,Army
+Miami (OH),12.4,Notre Dame,87.6,Notre Dame
+Akron,29.8,Bowling Green,70.2,Akron
+Ball State,8,Western Michigan,92,Western Michigan
+Buffalo,57.9,Kent State,42.1,Kent State
+Texas State,5.8,Wyoming,94.2,Wyoming
+Colorado State,52.2,Hawaii,47.8,Colorado State
+Nevada,72.7,Fresno State,27.3,Nevada
+San Jose State,19.3,UNLV,80.7,UNLV
+Air Force,45.4,New Mexico,54.6,Air Force
+Northern Illinois,21.1,San Diego State,78.9,San Diego State
+Arizona State,21.5,Stanford,78.5,Stanford
+Colorado,53.9,UCLA,46.1,UCLA
+California,13,Oregon,87,Oregon
+Washington,84.5,Oregon State,15.5,Washington
+New Mexico State,6,Arkansas,94,Arkansas
+Mississippi State,15.8,Auburn,84.2,Auburn
+Vanderbilt,17,Florida,83,Florida
+Georgia,64,Tennessee,36,Tennessee
+Eastern Michigan,9.2,Kentucky,90.8,Kentucky
+Ole Miss,18.3,Alabama,81.7,Alabama
+Troy,11.8,LSU,88.2,LSU
+South Carolina,34.2,Texas A&M,65.8,Texas A&M
+Memphis,67.2,Georgia State,32.8,Memphis
+Coastal Carolina,60.7,UL-Monroe,39.3,Coastal Carolina
+Arkansas State,39.2,Georgia Southern,60.7,Georgia Southern
+Louisville,54.6,NC State,45.4,NC State
+Memphis,80.8,Connecticut,19.2,Memphis
+Boise State,64.6,BYU,33.4,BYU
+Notre Dame,56.2,North Carolina,43.8,Notre Dame
+Virginia Tech,91.4,Boston College,8.6,Virginia Tech
+Duke,73.8,Virginia,26.2,Duke
+Pittsburgh,60.7,Syracuse,39.3,Syracuse
+Wake Forest,11.8,Clemson,88.2,Clemson
+UCF,68.5,Cincinnati,31.5,UCF
+Temple,65.8,East Carolina,34.2,East Carolina
+Tulsa,83.7,Tulane,16.3,Tulsa
+Air Force,14.3,Navy,85.7,Navy
+SMU,36.5,Houston,63.5,Houston
+Texas Tech,65.2,Kansas,34.8,Texas Tech
+West Virginia,64.9,TCU,35.1,TCU
+Iowa State,6.4,Oklahoma,93.6,Oklahoma
+Kansas State,58.4,Texas,41.6,Texas
+Minnesota,83.9,Purdue,16.1,Minnesota
+Penn State,70.1,Northwestern,29.9,Penn State
+Illinois,11.2,Iowa,88.8,Illinois
+Michigan State,21.7,Michigan,78.3,Michigan
+Wisconsin,63.6,Nebraska,36.4,Wisconsin
+Maryland,13.7,Ohio State,86.3,Ohio State
+Louisiana Tech,38,UAB,62,Louisiana Tech
+Southern Miss,64.3,UTSA,35.7,Southern Miss
+FIU,15.4,Middle Tennessee,84.6,Middle Tennessee
+FAU,31.3,Old Dominion,68.7,Old Dominion
+Marshall,77.3,Charlotte,22.7,Marshall
+Army,80.7,Rice,19.3,Army
+Western Kentucky,79,UTEP,21,Western Kentucky
+Bowling Green,39.4,Miami (OH),60.6,Miami (OH)
+Central Michigan,60.8,Ohio,39.2,Ohio
+Eastern Michigan,25.3,Toledo,74.7,Eastern Michigan
+Kent State,22.1,Northern Illinois,77.9,Kent State
+Western Michigan,76,Buffalo,24,Buffalo
+Ball State,20.3,Akron,79.7,Akron
+Colorado State,73.4,Utah State,26.6,Colorado State
+Fresno State,51.1,San Jose State,48.9,San Jose State
+San Diego State,64.5,UNLV,35.5,UNLV
+Hawaii,29.3,Nevada,70.7,Nevada
+Arizona,25.8,Colorado,74.2,Colorado
+Oregon State,16.1,USC,83.9,USC
+Stanford,55.2,Utah,44.8,Utah
+Washington State,57.6,Oregon,42.4,Oregon
+California,13,Washington,87,Washington
+Arkansas,66.5,South Carolina,33.5,Arkansas
+LSU,52.7,Florida,47.3,Florida
+Missouri,24.9,Kentucky,75.1,Kentucky
+Ole Miss,9.3,Auburn,90.7,Auburn
+Georgia,79.8,Vanderbilt,20.2,Georgia
+Alabama,77,Texas A&M,23,Alabama
+Georgia State,44.9,Coastal Carolina,55.1,Coastal Carolina
+UL-Monroe,38.1,Texas State,61.9,Texas State
+New Mexico State,7.2,Appalachian State,92.8,Appalachian State
+UL-Lafayette,34.6,Idaho,65.4,UL-Lafayette
+South Alabama,12.9,Troy,87.1,South Alabama
+Texas State,16,UL-Lafayette,84,Texas State
+Georgia Tech,35.1,Miami (FL),64.9,Miami (FL)
+Clemson,78.5,Syracuse,21.5,Clemson
+Washington State,82.1,California,17.9,Washington State
+Boston College,7.6,Louisville,92.4,Louisville
+Florida State,79.3,Duke,20.7,Florida State
+Virginia,17.4,North Carolina,82.6,North Carolina
+NC State,50.4,Pittsburgh,49.6,NC State
+Massachusetts,6.6,USF,93.4,USF
+East Carolina,20.7,UCF,79.3,UCF
+Connecticut,23.5,Temple,76.5,Temple
+Houston,60.6,Tulsa,39.4,Houston
+Navy,57.8,Memphis,42.2,Memphis
+Oklahoma,71.2,Texas,28.8,Oklahoma
+Baylor,10.5,Oklahoma State,89.5,Oklahoma State
+Kansas,40.4,Iowa State,59.6,Kansas
+Texas Tech,17.9,West Virginia,82.1,West Virginia
+TCU,26.1,Kansas State,73.9,TCU
+Michigan,82.7,Indiana,17.4,Michigan
+Northwestern,78.7,Maryland,21.3,Maryland
+Rutgers,20.9,Illinois,79.1,Illinois
+Michigan State,33.9,Minnesota,66.1,Michigan State
+Purdue,12.7,Wisconsin,87.3,Wisconsin
+Ohio State,66.9,Nebraska,33.1,Nebraska
+UTSA,67,North Texas,33,UTSA
+Old Dominion,34.4,Marshall,65.6,Marshall
+Charlotte,6.7,Western Kentucky,93.3,Western Kentucky
+Middle Tennessee,65.7,UAB,34.3,Middle Tennessee
+Tulane,32.9,FIU,67.1,Tulane
+UTEP,13.6,Southern Miss,86.4,UTEP
+Eastern Michigan,11.7,Army,88.3,Army
+Northern Illinois,39.7,Buffalo,60.3,Northern Illinois
+Akron,16.7,Western Michigan,83.3,Western Michigan
+Miami (OH),31.1,Kent State,68.9,Miami (OH)
+Ohio,76.4,Bowling Green,23.6,Ohio
+Toledo,24.6,Central Michigan,75.4,Central Michigan
+Nevada,19.5,Colorado State,80.5,Colorado State
+New Mexico,61.4,Fresno State,38.6,Fresno State
+Wyoming,82.1,Utah State,17.9,Wyoming
+San Jose State,22,Hawaii,78,Hawaii
+UNLV,47.6,Air Force,52.4,Air Force
+Boise State,55.3,San Diego State,44.7,Boise State
+Colorado,83.8,Oregon State,16.2,Colorado
+Utah,33.1,USC,66.9,USC
+Oregon,35.4,Stanford,64.6,Stanford
+Washington,79,Arizona State,21,Washington
+UCLA,55.6,Arizona,44.4,UCLA
+Texas A&M,23.3,Florida,76.7,Florida
+South Carolina,25.5,Tennessee,74.5,Tennessee
+Arkansas,32.2,Alabama,67.8,Alabama
+Vanderbilt,49.1,Ole Miss,50.9,Vanderbilt
+Auburn,42.9,LSU,57.1,LSU
+BYU,48.3,Mississippi State,51.7,BYU
+Missouri,14.8,Georgia,85.2,Georgia
+Coastal Carolina,54,Arkansas State,46,Arkansas State
+Appalachian State,83,Idaho,17,Appalachian State
+Georgia State,71.7,UL-Monroe,28.3,Georgia State
+New Mexico State,14.2,Georgia Southern,85.8,Georgia Southern
+UL-Lafayette,50.3,Arkansas State,49.7,Arkansas State
+Memphis,32.5,Houston,67.5,Houston
+Western Kentucky,75,Old Dominion,25,Western Kentucky
+Marshall,24,Middle Tennessee,76,Marshall
+Air Force,56.5,Nevada,43.5,Air Force
+Colorado State,81.9,New Mexico,18.1,Colorado State
+North Carolina,19.4,Virginia Tech,80.6,North Carolina
+Boston College,49.7,Virginia,50.3,Virginia
+Pittsburgh,60.9,Duke,39.1,Pittsburgh
+Wake Forest,28,Georgia Tech,72,Georgia Tech
+Louisville,28.1,Florida State,71.9,Florida State
+Syracuse,16.3,Miami (FL),83.7,Miami (FL)
+Tulsa,82.4,Connecticut,17.6,Tulsa
+USF,87.5,Tulane,12.5,USF
+UCF,42,Navy,58,Navy
+SMU,63.2,Cincinnati,36.8,Cincinnati
+BYU,81.1,East Carolina,18.9,BYU
+Oklahoma,63.2,Kansas State,36.8,Kansas State
+West Virginia,82.4,Baylor,17.6,West Virginia
+Kansas,24,TCU,76,TCU
+Oklahoma State,66.6,Texas,33.4,Oklahoma State
+Iowa State,35.3,Texas Tech,64.7,Texas Tech
+Purdue,53.5,Rutgers,46.5,Rutgers
+Maryland,13.2,Wisconsin,86.8,Wisconsin
+Iowa,50.1,Northwestern,49.9,Northwestern
+Indiana,27.6,Michigan State,72.4,Michigan State
+Illinois,14.6,Minnesota,85.4,Minnesota
+Michigan,37.3,Penn State,62.7,Penn State
+Rice,19.6,UTSA,80.4,UTSA
+North Texas,31.7,FAU,68.3,FAU
+UAB,76.2,Charlotte,23.8,UAB
+Southern Miss,59.7,Louisiana Tech,40.3,Louisiana Tech
+Temple,28.6,Army,71.4,Temple
+Georgia Southern,85.7,Massachusetts,14.3,Georgia Southern
+USC,73.1,Notre Dame,26.9,USC
+Akron,54.9,Toledo,45.1,Toledo
+Buffalo,25.2,Miami (OH),74.8,Miami (OH)
+Kent State,13.6,Ohio,86.4,Kent State
+Western Michigan,76.5,Eastern Michigan,23.5,Western Michigan
+Central Michigan,85.5,Ball State,14.5,Central Michigan
+Northern Illinois,73.1,Bowling Green,26.9,Northern Illinois
+Utah State,22.3,UNLV,77.7,UNLV
+Wyoming,50.6,Boise State,49.4,Boise State
+Fresno State,18,San Diego State,82,San Diego State
+Arizona,66.1,California,33.9,Arizona
+Colorado,38.6,Washington State,61.4,Colorado
+Oregon,52.3,UCLA,47.7,UCLA
+Arizona State,17.6,Utah,82.4,Utah
+Kentucky,59,Mississippi State,41,Mississippi State
+Tennessee,26.1,Alabama,73.9,Alabama
+Idaho,21.4,Missouri,78.6,Missouri
+Auburn,60.4,Arkansas,41.8,Auburn
+LSU,84,Ole Miss,16,LSU
+Troy,57.7,Georgia State,42.3,Troy
+UL-Monroe,16,South Alabama,84,South Alabama
+Coastal Carolina,15.2,Appalachian State,84.8,Appalachian State
+Eastern Michigan,14.2,Northern Illinois,85.8,Northern Illinois
+Toledo,79.2,Ball State,20.8,Toledo
+South Alabama,58.5,Georgia State,41.5,South Alabama
+Stanford,83.4,Oregon State,16.6,Stanford
+Florida State,84,Boston College,16,Florida State
+Tulane,8.4,Memphis,91.6,Memphis
+Tulsa,53.5,SMU,46.5,SMU
+Miami (FL),64.9,North Carolina,35.1,Miami (FL)
+Louisville,85.9,Wake Forest,14.1,Louisville
+Georgia Tech,22.5,Clemson,77.5,Clemson
+Duke,16,Virginia Tech,84,Virginia Tech
+Virginia,11.4,Pittsburgh,88.6,Pittsburgh
+Missouri,81.8,Connecticut,18.2,Missouri
+Cincinnati,26.3,USF,73.7,USF
+East Carolina,10.2,Houston,89.8,Houston
+Kansas State,84.9,Kansas,15.1,Kansas State
+Texas Tech,12.7,Oklahoma,87.3,Oklahoma
+Texas,74.3,Baylor,25.7,Texas
+TCU,84.8,Iowa State,15.2,Iowa State
+Oklahoma State,54.9,West Virginia,45.1,West Virginia
+Wisconsin,85.7,Illinois,14.3,Wisconsin
+Rutgers,14.2,Michigan,85.8,Michigan
+Michigan State,34.1,Northwestern,65.9,Northwestern
+Nebraska,81.2,Purdue,18.8,Purdue
+Minnesota,45.1,Iowa,54.9,Iowa
+Penn State,34.1,Ohio State,65.9,Ohio State
+Indiana,40,Maryland,60,Indiana
+Old Dominion,71.4,North Texas,28.6,North Texas
+UAB,39.1,Southern Miss,60.9,UAB
+FIU,12.4,Marshall,87.6,Marshall
+Louisiana Tech,74.2,Rice,25.8,Louisiana Tech
+FAU,17.2,Western Kentucky,82.8,Western Kentucky
+UTSA,61.5,UTEP,38.5,UTSA
+Appalachian State,93.6,Massachusetts,6.4,Appalachian State
+NC State,54.6,Notre Dame,45.4,Notre Dame
+San Jose State,9,BYU,91,BYU
+Buffalo,38.2,Akron,61.8,Akron
+Air Force,26.6,Colorado State,73.4,Colorado State
+New Mexico,7.5,Wyoming,92.5,Wyoming
+UNLV,76,Fresno State,24,Fresno State
+San Diego State,67.9,Hawaii,32.1,San Diego State
+Boise State,89.8,Utah State,10.2,Boise State
+California,14.2,Colorado,85.8,Colorado
+Washington State,74.7,Arizona,25.3,Washington State
+UCLA,22.8,Washington,77.2,Washington
+Utah,42.3,Oregon,57.7,Utah
+USC,76.7,Arizona State,23.3,USC
+Arkansas,76.7,Ole Miss,23.3,Ole Miss
+Georgia,50.2,Florida,49.8,Florida 
+Vanderbilt,51.1,South Carolina,48.9,South Carolina
+Tennessee,42.1,Kentucky,57.9,Kentucky
+Mississippi State,26.3,Texas A&M,73.7,Texas A&M
+Texas State,22.1,Coastal Carolina,77.9,Coastal Carolina
+Georgia Southern,35.7,Troy,64.3,Troy
+UL-Monroe,25.9,Idaho,74.1,UL-Monroe
+Arkansas State,77,New Mexico State,23,Arkansas State
+Bowling Green,22.5,Kent State,77.5,Bowling Green
+Miami (OH),25.3,Ohio,74.7,Ohio
+Central Michigan,42.7,Western Michigan,57.3,Central Michigan
+Northern Illinois,58.4,Toledo,41.6,Northern Illinois
+Ball State,27.6,Eastern Michigan,72.4,Eastern Michigan
+Navy,71.5,Temple,28.5,Temple
+Idaho,15.6,Troy,84.4,Troy
+Marshall,71,FAU,29,FAU
+Memphis,48.9,Tulsa,51.1,Tulsa
+UCLA,35.2,Utah,64.8,Utah
+Georgia Tech,76.5,Virginia,23.5,Georgia Tech
+Syracuse,16.9,Florida State,83.1,Florida State
+Virginia Tech,57,Miami (FL),43,Virginia Tech
+Clemson,52.2,NC State,47.8,NC State
+Houston,40.2,USF,59.8,USF
+UCF,50.8,SMU,49.2,UCF
+Cincinnati,79.4,Tulane,20.6,Cincinnati
+East Carolina,59.3,Connecticut,40.7,East Carolina
+Baylor,38.3,Kansas,61.7,Baylor
+Iowa State,15.7,West Virginia,84.3,West Virginia
+Kansas State,79.2,Texas Tech,20.8,Texas Tech
+Texas,45.7,TCU,54.3,Texas
+Oklahoma,39.7,Oklahoma State,60.3,Oklahoma State
+Minnesota,23,Michigan,77,Michigan
+Wisconsin,77.6,Indiana,22.4,Wisconsin
+Illinois,55.8,Purdue,44.2,Purdue
+Northwestern,36.6,Nebraska,63.4,Northwestern
+Penn State,66.9,Michigan State,33.1,Michigan State
+Maryland,54.3,Rutgers,45.7,Maryland
+Ohio State,61.5,Iowa,38.5,Ohio State
+Rice,21.7,UAB,78.3,UAB
+North Texas,18.7,Louisiana Tech,81.3,Louisiana Tech
+Charlotte,17.3,Old Dominion,82.7,Old Dominion
+UTSA,80.1,FIU,19.9,UTSA
+UTEP,16.1,Middle Tennessee,83.9,Middle Tennessee
+Wake Forest,25.2,Notre Dame,74.8,Notre Dame
+Army,62.9,Air Force,37.1,Air Force
+Utah State,34.8,New Mexico,65.2,New Mexico
+Hawaii,27.1,UNLV,72.9,UNLV
+San Diego State,84.9,San Jose State,15.1,San Diego State
+Colorado State,36.8,Wyoming,63.2,Colorado State
+Nevada,11.4,Boise State,88.6,Boise State
+BYU,83.9,Fresno State,16.1,BYU
+Oregon State,57.2,California,42.8,Oregon State
+Oregon,33,Washington,67,Washington
+Colorado,79.8,Arizona State,20.2,Arizona State
+Arizona,23.6,USC,76.4,USC
+Stanford,43.7,Washington State,56.3,Stanford
+Western Kentucky,51.9,Vanderbilt,48.1,Vanderbilt
+Coastal Carolina,12.4,Arkansas,87.6,Arkansas
+Auburn,69.6,Texas A&M,30.4,Auburn
+South Carolina,20.6,Georgia,79.4,Georgia
+Massachusetts,10.3,Mississippi State,89.7,Mississippi State
+Ole Miss,25.5,Kentucky,74.5,Kentucky
+Southern Miss,23.3,Tennessee,76.7,Tennessee
+Florida,71.9,Missouri,28.1,Missouri
+LSU,44.2,Alabama,55.8,Alabama
+UL-Lafayette,16,South Alabama,84,UL-Lafayette
+New Mexico State,34.8,Texas State,65.2,New Mexico State
+Appalachian State,86.9,UL-Monroe,13.1,Appalacahian State
+Georgia State,24.6,Georgia Southern,75.4,Georgia Southern
+Akron,26.5,Miami (OH),73.5,Miami (OH)
+Bowling Green,41.4,Buffalo,58.6,Buffalo
+Eastern Michigan,15.9,Central Michigan,84.1,Central Michigan
+Kent State,12.9,Western Michigan,87.1,Western Michigan
+Toledo,29.2,Ohio,70.8,Toledo
+Ball State,10.3,Northern Illinois,89.7,Northern Illinois
+Georgia Southern,17.6,Appalachian State,82.4,Appalachian State
+North Carolina,37.8,Pittsburgh,62.2,North Carolina
+Temple,43.5,Cincinnati,56.5,Temple
+BYU,80,UNLV,20,BYU
+Washington,51.7,Stanford,48.3,Washington
+Notre Dame,31.9,Miami (FL),68.1,Miami (FL)
+NC State,75.4,Boston College,24.6,NC State
+Wake Forest,28.4,Syracuse,71.6,Syracuse
+Virginia,11.2,Louisville,88.8,Louisville
+Virginia Tech,70.4,Georgia Tech,29.6,Georgia Tech
+Florida State,51.5,Clemson,48.5,Florida State
+Connecticut,12.6,UCF,87.4,UCF
+Tulane,25.8,East Carolina,74.2,East Carolina
+SMU,39.5,Navy,60.5,SMU
+Oklahoma State,77.5,Iowa State,22.5,Oklahoma State
+Texas Tech,61.9,Baylor,38.1,Baylor
+TCU,16.5,Oklahoma,83.5,TCU
+Kansas,41.5,Texas,58.5,Texas
+West Virginia,52.6,Kansas State,47.4,West Virginia
+Rutgers,15.5,Penn State,84.5,Penn State
+Nebraska,54,Minnesota,46,Minnesota
+Michigan,83.5,Maryland,16.5,Michigan
+Purdue,12.1,Northwestern,87.9,Northwestern
+Michigan State,26.9,Ohio State,73.1,Ohio State
+Iowa,37,Wisconsin,63,Wisconsin
+Indiana,59.3,Illinois,40.7,Indiana
+UAB,46.1,UTSA,53.9,UTSA
+Middle Tennessee,83.8,Charlotte,16.2,Middle Tennessee
+FAU,22.5,Louisiana Tech,77.5,FAU
+Southern Miss,73.4,Rice,26.6,Southern Miss
+UTEP,59.9,North Texas,40.1,UTEP
+Western Kentucky,71.1,Marshall,28.9,Marshall
+Old Dominion,73.3,FIU,26.7,Old Dominion
+Duke,40.4,Army,59.6,Duke
+Maine,33.6,Massachusetts,66.4,Massachusetts
+Wyoming,65.1,Air Force,34.9,Wyoming
+Fresno State,29.1,Hawaii,70.9,Fresno State
+San Jose State,18.1,Nevada,81.9,Nevada
+Boise State,51.3,Colorado State,48.7,Colorado State
+Oregon State,21.3,Arizona,78.7,Arizona
+USC,47.2,Colorado,52.8,Colorado
+Washington State,33.8,Utah,66.2,Utah
+Arizona State,20.2,UCLA,79.8,UCLA
+Alabama,74.9,Mississippi State,25.1,Alabama
+Florida,78.3,South Carolina,21.7,Florida
+UL-Lafayette,23.6,Ole Miss,76.4,UL-Lafayette
+Georgia,40.1,Auburn,59.9,Auburn
+New Mexico,13.8,Texas A&M,86.2,Texas A&M
+Arkansas,28.7,LSU,71.3,LSU
+Kentucky,68.5,Vanderbilt,31.5,Kentucky
+Tennessee,57.9,Missouri,42.1,Tennessee
+Arkansas State,34.8,South Alabama,65.2,South Alabama
+Georgia State,65.4,Texas State,34.6,Georgia State
+Troy,76.9,Coastal Carolina,23.1,Troy
+Central Michigan,78.6,Kent State,21.4,Central Michigan
+Ohio,68.5,Akron,31.5,Ohio
+Western Michigan,42.8,Northern Illinois,57.2,Western Michigan
+Toledo,71.7,Bowling Green,28.3,Toledo
+Eastern Michigan,24.2,Miami (OH),75.8,Miami (OH)
+Buffalo,69.1,Ball State,30.9,Ball State
+Tulsa,39.3,USF,60.7,Tulsa
+Middle Tennessee,28.8,Western Kentucky,71.2,Middle Tennessee
+UNLV,73,New Mexico,27,UNLV
+Pittsburgh,22,Virginia Tech,78,Virginia Tech
+Syracuse,18,Louisville,82,Louisville
+The Citadel,10.1,Clemson,89.9,Clemson
+Delaware State,8.4,Florida State,91.6,Florida State
+Western Carolina,8.1,North Carolina,91.9,North Carolina
+Georgia Tech,66.1,Duke,33.9,Georgia Tech
+NC State,79,Wake Forest,21,NC State
+Virginia,18.6,Miami (FL),81.4,Virginia
+Connecticut,27.6,Boston College,72.4,Boston College
+UCF,64.5,Temple,35.5,Temple
+Cincinnati,58.7,East Carolina,41.3,Cincinnati
+SMU,43.9,Memphis,56.1,Memphis
+Houston,83,Tulane,17,Houston
+Iowa State,39.2,Baylor,60.8,Baylor
+TCU,70.4,Texas Tech,29.6,TCU
+Oklahoma,78,Kansas,22,Oklahoma
+Kansas State,24.8,Oklahoma State,75.2,Oklahoma State
+Texas,34.1,West Virginia,65.9,West Virginia
+Minnesota,28.4,Northwestern,71.6,Northwestern
+Purdue,18.5,Iowa,81.5,Iowa
+Rutgers,24.3,Indiana,75.7,Indiana
+Michigan,49.3,Wisconsin,50.7,Wisconsin
+Maryland,25.3,Michigan State,74.7,Michigan State
+Nebraska,29.3,Penn State,70.7,Nebraska
+Illinois,24,Ohio State,76,Ohio State
+Marshall,47.8,UTSA,52.2,UTSA
+Charlotte,15.7,Southern Miss,84.3,Southern Miss
+Rice,21.7,Old Dominion,78.3,Old Dominion
+Army,79.3,North Texas,20.7,Army
+FIU,18.5,FAU,81.5,FAU
+Louisiana Tech,65.7,UTEP,34.3,UTEP
+Massachusetts,13.3,BYU,86.7,BYU
+Navy,42.2,Notre Dame,57.8,Navy
+Fresno State,13,Wyoming,87,Wyoming
+Hawaii,57.4,Utah State,42.6,Utah State
+San Jose State,12.7,Colorado State,87.3,Colorado State
+Air Force,24.1,Boise State,75.9,Boise State
+Nevada,20.3,San Diego State,79.7,San Diego State
+Arizona State,50,Oregon State,50,Oregon State
+Utah,43.4,Washington,56.6,Washington
+UCLA,34.9,USC,65.1,USC
+California,14.1,Stanford,85.9,Stanford
+Arizona,28,Oregon,72,Oregon
+UL-Monroe,14.5,Auburn,85.5,Auburn
+Wofford,13.7,South Carolina,86.3,South Carolina
+Kentucky,38.3,Georgia,61.7,Georgia
+LSU,75.5,Tennessee,24.5,Tennessee
+Mercer,14,Alabama,86,Alabama
+Texas A&M,70.4,Ole Miss,29.6,Ole Miss
+Missouri,40.1,Vanderbilt,59.9,Missouri
+Mississippi State,28.9,Arkansas,71.1,Mississippi State
+UAB,17.9,Florida,82.1,Florida
+Texas State,16.4,Arkansas State,83.6,Arkansas State
+New Mexico State,16,UL-Lafayette,84,UL-Lafayette
+South Alabama,44,Georgia Southern,56,South Alabama
+Coastal Carolina,55.8,Idaho,44.2,Idaho
+Bowling Green,26.9,Eastern Michigan,73.1,Eastern Michigan
+Kent State,31.9,Akron,68.1,Akron
+Miami (OH),86.3,Ball State,13.7,Miami (OH)
+Ole Miss,26.2,Mississippi State,73.8,Mississippi State
+Miami (FL),58.1,Pittsburgh,41.9,Pittsburgh
+Virginia Tech,87.8,Virginia,12.2,Virginia Tech
+Navy,33.1,Houston,66.9,Houston
+USF,64.5,UCF,35.5,USF
+Baylor,13.5,TCU,86.5,TCU
+Texas Tech,29.7,Texas,70.3,Texas
+Iowa,34.1,Nebraska,65.9,Iowa
+Western Kentucky,90.7,FIU,9.3,FIU
+Ohio,81.6,Buffalo,18.4,Ohio
+Western Michigan,62.8,Toledo,37.2,Western Michigan
+Northern Illinois,27.3,Central Michigan,72.7,Central Michigan
+New Mexico,11.8,San Diego State,88.2,New Mexico
+California,13.2,UCLA,86.8,UCLA
+Missouri,27.7,Arkansas,72.3,Arkansas
+Texas State,10.6,Troy,89.4,Troy
+Georgia,53.9,Georgia Tech,46.1,Georgia
+Duke,77.3,Wake Forest,22.7,Duke
+Boston College,21.6,Syracuse,78.4,Syracuse
+North Carolina,21,NC State,79,NC State
+Connecticut,12.2,Cincinnati,87.8,Cincinnati
+Tulane,9.3,SMU,90.7,SMU
+Temple,38.4,Tulsa,61.6,Tulsa
+East Carolina,17.3,Memphis,82.7,Memphis
+Iowa State,11.3,Kansas State,88.7,Kansas State
+Kansas,17.1,Oklahoma State,82.9,Oklahoma State
+West Virginia,41.2,Oklahoma,58.8,Oklahoma
+Ohio State,39.6,Michigan,60.4,Ohio State
+Penn State,83.3,Maryland,16.7,Penn State
+Northwestern,87.2,Illinois,12.8,Northwestern
+Indiana,56.4,Purdue,43.6,Purdue
+Wisconsin,63.3,Minnesota,36.7,Wisconsin
+Michigan State,78.4,Rutgers,21.6,Michigan State
+North Texas,29.8,Rice,70.2,Rice
+FAU,81.5,Charlotte,18.5,Charlotte
+UTEP,27,UAB,73,UAB
+Southern Miss,32,Marshall,68,Marshall
+Old Dominion,21.9,Middle Tennessee,78.1,Middle Tennessee
+UTSA,60.4,Louisiana Tech,39.6,UTSA
+Wyoming,89,San Jose State,11,Wyoming
+Utah State,13.4,Air Force,86.6,Air Force
+Boise State,87.7,Fresno State,12.3,Boise State
+UNLV,67.3,Nevada,32.7,UNLV
+BYU,82.4,Hawaii,17.6,BYU
+Colorado,42.2,Utah,57.8,Utah
+Notre Dame,18.5,Stanford,81.5,Stanford
+Arizona,60,Arizona State,40,Arizona
+Washington State,31.1,Washington,68.9,Washington
+Oregon State,15.6,Oregon,84.4,Oregon
+Louisville,53.9,Kentucky,46.1,Louisville
+Clemson,82.9,South Carolina,17.1,Clemson
+Alabama,38,Auburn,62,Auburn
+Vanderbilt,26.9,Tennessee,73.1,Tennessee
+Florida State,61.5,Florida,38.5,Florida State
+Texas A&M,17.6,LSU,82.4,LSU
+Appalachian State,86.5,Georgia State,13.5,Appalachian State
+Georgia Southern,35.8,UL-Lafayette,64.2,UL-Lafayette
+Arkansas State,84.7,UL-Monroe,15.3,Arkansas State
+Idaho,76.6,New Mexico State,23.4,New Mexico State
+Central Michigan,73.4,Ohio,26.6,Central Michign
+USC,56.3,Washington,43.7,Washington
+Troy,81,Arkansas State,19,Troy
+Georgia Southern,66.6,Coastal Carolina,33.4,Coastal Carolina
+Idaho,33.8,Georgia State,66.2,Idaho
+South Alabama,86,New Mexico State,14,South Alabama
+UL-Lafayette,15.3,Appalachian State,84.7,Appalachian State
+Houston,30.1,USF,69.9,USF
+UTSA,38.1,Middle Tennessee,61.9,UTSA
+Oklahoma State,68,West Virginia,32,Oklahoma State
+Auburn,58.8,Florida,41.2,Auburn
+UNLV,13.8,Colorado State,86.2,Colorado State
+Florida State,61.7,Virginia Tech,38.3,Florida State
+Ohio State,40.3,Wisconsin,59.7,Ohio State
+Army,40.2,Navy,59.8,Navy
